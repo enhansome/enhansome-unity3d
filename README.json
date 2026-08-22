@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-14T08:03:43Z",
                 "owner": "elringus",
                 "repo": "sprite-dicing",
-                "stars": 1511
+                "stars": 1513
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2021-01-23T00:21:04Z",
                 "owner": "cmilr",
                 "repo": "Unity2D-Components",
-                "stars": 817
+                "stars": 816
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-20T20:33:11Z",
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5252
+                "stars": 5254
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-08-19T21:40:41Z",
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 3953
+                "stars": 3956
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2024-03-06T08:04:15Z",
                 "owner": "kyubuns",
                 "repo": "AnimeTask",
-                "stars": 394
+                "stars": 395
               }
             },
             {
@@ -539,7 +539,7 @@
                 "last_commit": "2026-07-19T05:02:31Z",
                 "owner": "focus-creative-games",
                 "repo": "obfuz",
-                "stars": 792
+                "stars": 795
               }
             },
             {
@@ -636,7 +636,7 @@
                 "last_commit": "2017-06-05T16:05:55Z",
                 "owner": "ChemiKhazi",
                 "repo": "UnityPsdImporter",
-                "stars": 76
+                "stars": 75
               }
             },
             {
@@ -852,7 +852,7 @@
                 "last_commit": "2026-08-18T13:23:17Z",
                 "owner": "game-ci",
                 "repo": "unity-builder",
-                "stars": 1084
+                "stars": 1083
               }
             },
             {
@@ -1061,7 +1061,7 @@
                 "last_commit": "2023-10-08T14:35:58Z",
                 "owner": "Matthew-J-Spencer",
                 "repo": "Ultimate-2D-Controller",
-                "stars": 2164
+                "stars": 2163
               }
             },
             {
@@ -1779,7 +1779,7 @@
                 "last_commit": "2026-07-01T01:24:27Z",
                 "owner": "hadashiA",
                 "repo": "VContainer",
-                "stars": 3036
+                "stars": 3037
               }
             },
             {
@@ -1794,7 +1794,7 @@
                 "last_commit": "2024-01-26T10:54:12Z",
                 "owner": "modesttree",
                 "repo": "Zenject",
-                "stars": 2932
+                "stars": 2933
               }
             },
             {
@@ -1809,7 +1809,7 @@
                 "last_commit": "2026-06-18T01:41:03Z",
                 "owner": "gustavopsantos",
                 "repo": "Reflex",
-                "stars": 1609
+                "stars": 1610
               }
             },
             {
@@ -1943,7 +1943,7 @@
                 "last_commit": "2023-12-30T16:18:56Z",
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7669
+                "stars": 7670
               }
             },
             {
@@ -1958,7 +1958,7 @@
                 "last_commit": "2026-08-06T18:30:40Z",
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1801
+                "stars": 1803
               }
             },
             {
@@ -2003,7 +2003,7 @@
                 "last_commit": "2026-07-03T11:59:59Z",
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 749
+                "stars": 753
               }
             },
             {
@@ -2100,7 +2100,7 @@
                 "last_commit": "2026-06-29T17:47:03Z",
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5198
+                "stars": 5201
               }
             },
             {
@@ -2205,7 +2205,7 @@
                 "last_commit": "2021-08-28T11:49:59Z",
                 "owner": "kimsama",
                 "repo": "Unity-QuickSheet",
-                "stars": 1084
+                "stars": 1085
               }
             },
             {
@@ -2265,7 +2265,7 @@
                 "last_commit": "2021-01-06T21:28:52Z",
                 "owner": "cfoulston",
                 "repo": "Unity-Reorderable-List",
-                "stars": 645
+                "stars": 646
               }
             },
             {
@@ -2390,21 +2390,6 @@
             },
             {
               "node_type": "item",
-              "title": "SuperEditor",
-              "description": "Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 300001062,
-                "language": null,
-                "last_commit": "2022-05-17T02:17:11Z",
-                "owner": "UnitySuperEditor",
-                "repo": "SuperEditor",
-                "stars": 261
-              }
-            },
-            {
-              "node_type": "item",
               "title": "property-drawer-collection",
               "description": null,
               "children": [],
@@ -2415,6 +2400,21 @@
                 "last_commit": "2016-11-16T14:37:53Z",
                 "owner": "anchan828",
                 "repo": "property-drawer-collection",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SuperEditor",
+              "description": "Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300001062,
+                "language": null,
+                "last_commit": "2022-05-17T02:17:11Z",
+                "owner": "UnitySuperEditor",
+                "repo": "SuperEditor",
                 "stars": 260
               }
             },
@@ -2797,7 +2797,7 @@
                 "last_commit": "2025-10-15T21:44:14Z",
                 "owner": "elringus",
                 "repo": "sprite-glow",
-                "stars": 2413
+                "stars": 2414
               }
             },
             {
@@ -2857,7 +2857,7 @@
                 "last_commit": "2026-07-17T05:13:02Z",
                 "owner": "CyberAgentGameEntertainment",
                 "repo": "NovaShader",
-                "stars": 1605
+                "stars": 1606
               }
             },
             {
@@ -3142,7 +3142,7 @@
                 "last_commit": "2018-12-07T12:27:11Z",
                 "owner": "AdultLink",
                 "repo": "HoloShield",
-                "stars": 565
+                "stars": 566
               }
             },
             {
@@ -3606,7 +3606,7 @@
                 "last_commit": "2026-06-18T06:36:17Z",
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3875
+                "stars": 3876
               }
             },
             {
@@ -3621,7 +3621,7 @@
                 "last_commit": "2022-01-30T05:41:31Z",
                 "owner": "Scrawk",
                 "repo": "Ceto",
-                "stars": 1082
+                "stars": 1083
               }
             },
             {
@@ -3673,7 +3673,7 @@
                 "last_commit": "2023-05-26T02:34:10Z",
                 "owner": "JasonMa0012",
                 "repo": "JTRP",
-                "stars": 2156
+                "stars": 2157
               }
             },
             {
@@ -3703,7 +3703,7 @@
                 "last_commit": "2025-02-12T15:39:41Z",
                 "owner": "stalomeow",
                 "repo": "StarRailNPRShader",
-                "stars": 984
+                "stars": 983
               }
             },
             {
@@ -3748,7 +3748,7 @@
                 "last_commit": "2022-06-27T03:55:23Z",
                 "owner": "yoship1639",
                 "repo": "UniToon",
-                "stars": 559
+                "stars": 560
               }
             }
           ],
@@ -3770,7 +3770,7 @@
                 "last_commit": "2026-07-11T12:35:44Z",
                 "owner": "liangxiegame",
                 "repo": "QFramework",
-                "stars": 5417
+                "stars": 5418
               }
             },
             {
@@ -4002,7 +4002,7 @@
                 "last_commit": "2023-06-16T14:51:41Z",
                 "owner": "in0finite",
                 "repo": "SanAndreasUnity",
-                "stars": 2606
+                "stars": 2605
               }
             },
             {
@@ -4112,21 +4112,6 @@
             },
             {
               "node_type": "item",
-              "title": "Grapple-Effect",
-              "description": "An example of a simple grapple effect in Unity",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 174948995,
-                "language": "C#",
-                "last_commit": "2019-03-13T00:12:43Z",
-                "owner": "keenanwoodall",
-                "repo": "Grapple-Effect",
-                "stars": 315
-              }
-            },
-            {
-              "node_type": "item",
               "title": "UnityTimeRewinder",
               "description": "Unity time rewind solution, that is easily customizable for any project.",
               "children": [],
@@ -4137,6 +4122,21 @@
                 "last_commit": "2024-08-08T18:07:22Z",
                 "owner": "SitronX",
                 "repo": "UnityTimeRewinder",
+                "stars": 316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grapple-Effect",
+              "description": "An example of a simple grapple effect in Unity",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174948995,
+                "language": "C#",
+                "last_commit": "2019-03-13T00:12:43Z",
+                "owner": "keenanwoodall",
+                "repo": "Grapple-Effect",
                 "stars": 315
               }
             },
@@ -4294,7 +4294,7 @@
                 "last_commit": "2024-05-20T02:59:02Z",
                 "owner": "sturdyspoon",
                 "repo": "unity-movement-ai",
-                "stars": 2138
+                "stars": 2139
               }
             },
             {
@@ -4309,7 +4309,7 @@
                 "last_commit": "2024-05-02T21:14:52Z",
                 "owner": "SebLague",
                 "repo": "Path-Creator",
-                "stars": 2083
+                "stars": 2084
               }
             },
             {
@@ -4324,7 +4324,7 @@
                 "last_commit": "2026-03-06T07:52:10Z",
                 "owner": "crashkonijn",
                 "repo": "GOAP",
-                "stars": 1751
+                "stars": 1752
               }
             },
             {
@@ -4399,7 +4399,7 @@
                 "last_commit": "2026-05-08T21:22:43Z",
                 "owner": "ashblue",
                 "repo": "fluid-behavior-tree",
-                "stars": 1180
+                "stars": 1181
               }
             },
             {
@@ -5162,7 +5162,7 @@
                 "last_commit": "2026-08-04T06:45:45Z",
                 "owner": "moonsharp-devs",
                 "repo": "moonsharp",
-                "stars": 1612
+                "stars": 1613
               }
             },
             {
@@ -5278,10 +5278,10 @@
                 "archived": false,
                 "id": 84389723,
                 "language": "C#",
-                "last_commit": "2026-08-14T08:42:33Z",
+                "last_commit": "2026-08-21T07:04:43Z",
                 "owner": "KhronosGroup",
                 "repo": "UnityGLTF",
-                "stars": 2224
+                "stars": 2223
               }
             },
             {
@@ -5311,7 +5311,7 @@
                 "last_commit": "2021-05-17T09:43:18Z",
                 "owner": "ElasticSea",
                 "repo": "unity-fracture",
-                "stars": 1328
+                "stars": 1329
               }
             },
             {
@@ -5326,7 +5326,7 @@
                 "last_commit": "2024-07-17T12:15:44Z",
                 "owner": "dgreenheck",
                 "repo": "OpenFracture",
-                "stars": 1131
+                "stars": 1133
               }
             },
             {
@@ -5498,7 +5498,7 @@
                 "last_commit": "2020-12-20T23:55:15Z",
                 "owner": "dnSpy",
                 "repo": "dnSpy",
-                "stars": 29691
+                "stars": 29687
               }
             },
             {
@@ -5510,10 +5510,10 @@
                 "archived": false,
                 "id": 1327739,
                 "language": "C#",
-                "last_commit": "2026-08-20T08:26:30Z",
+                "last_commit": "2026-08-21T08:30:37Z",
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 25904
+                "stars": 25908
               }
             },
             {
@@ -5573,7 +5573,7 @@
                 "last_commit": "2026-08-13T09:56:40Z",
                 "owner": "LavaGang",
                 "repo": "MelonLoader",
-                "stars": 4119
+                "stars": 4123
               }
             },
             {
@@ -5588,7 +5588,7 @@
                 "last_commit": "2022-01-14T21:53:29Z",
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3092
+                "stars": 3093
               }
             },
             {
@@ -5618,7 +5618,7 @@
                 "last_commit": "2026-06-22T15:32:07Z",
                 "owner": "NeighTools",
                 "repo": "UnityDoorstop",
-                "stars": 582
+                "stars": 583
               }
             },
             {
@@ -5682,7 +5682,7 @@
                 "archived": false,
                 "id": 14933768,
                 "language": "C#",
-                "last_commit": "2026-08-20T23:54:42Z",
+                "last_commit": "2026-08-21T13:34:23Z",
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
                 "stars": 1541
@@ -5704,10 +5704,10 @@
                 "archived": false,
                 "id": 78869430,
                 "language": "Go",
-                "last_commit": "2026-08-20T12:26:58Z",
+                "last_commit": "2026-08-21T16:41:52Z",
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13185
+                "stars": 13192
               }
             },
             {
@@ -5767,7 +5767,7 @@
                 "last_commit": "2026-08-20T14:50:27Z",
                 "owner": "Facepunch",
                 "repo": "Facepunch.Steamworks",
-                "stars": 3729
+                "stars": 3728
               }
             },
             {
@@ -5797,7 +5797,7 @@
                 "last_commit": "2026-08-07T05:02:02Z",
                 "owner": "rlabrecque",
                 "repo": "Steamworks.NET",
-                "stars": 3576
+                "stars": 3577
               }
             },
             {
@@ -5809,10 +5809,10 @@
                 "archived": false,
                 "id": 398647781,
                 "language": "C#",
-                "last_commit": "2026-08-19T07:30:27Z",
+                "last_commit": "2026-08-21T03:42:31Z",
                 "owner": "FirstGearGames",
                 "repo": "FishNet",
-                "stars": 2022
+                "stars": 2024
               }
             },
             {
@@ -5929,7 +5929,7 @@
                 "archived": false,
                 "id": 819599087,
                 "language": "C#",
-                "last_commit": "2026-08-20T20:11:17Z",
+                "last_commit": "2026-08-21T18:45:15Z",
                 "owner": "PurrNet",
                 "repo": "PurrNet",
                 "stars": 640
@@ -6419,7 +6419,7 @@
                 "last_commit": "2023-04-28T06:29:34Z",
                 "owner": "mert-dev-acc",
                 "repo": "NodeBasedDialogueSystem",
-                "stars": 897
+                "stars": 898
               }
             },
             {
@@ -6501,7 +6501,7 @@
                 "last_commit": "2026-04-19T18:34:16Z",
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4547
+                "stars": 4550
               }
             },
             {
@@ -6513,10 +6513,10 @@
                 "archived": false,
                 "id": 199310409,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T09:56:35Z",
+                "last_commit": "2026-08-22T00:58:49Z",
                 "owner": "openupm",
                 "repo": "openupm",
-                "stars": 1895
+                "stars": 1896
               }
             },
             {
@@ -6643,7 +6643,7 @@
                 "last_commit": "2026-07-31T14:49:14Z",
                 "owner": "Suvitruf",
                 "repo": "box3d-unity",
-                "stars": 218
+                "stars": 219
               }
             },
             {
@@ -6670,7 +6670,7 @@
                 "archived": false,
                 "id": 933482999,
                 "language": "C#",
-                "last_commit": "2026-08-18T15:01:14Z",
+                "last_commit": "2026-08-21T18:00:00Z",
                 "owner": "ikpil",
                 "repo": "Box2D.NET",
                 "stars": 204
@@ -6688,7 +6688,7 @@
                 "last_commit": "2025-06-05T13:13:37Z",
                 "owner": "nomnomab",
                 "repo": "RaycastVisualization",
-                "stars": 179
+                "stars": 180
               }
             },
             {
@@ -6964,7 +6964,7 @@
                 "last_commit": "2021-03-28T01:04:35Z",
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4856
+                "stars": 4857
               }
             },
             {
@@ -6979,7 +6979,7 @@
                 "last_commit": "2024-04-04T23:31:28Z",
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2898
+                "stars": 2899
               }
             },
             {
@@ -7170,7 +7170,7 @@
                 "archived": false,
                 "id": 20878802,
                 "language": "C#",
-                "last_commit": "2026-08-20T21:26:06Z",
+                "last_commit": "2026-08-21T23:42:15Z",
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4969
@@ -7374,7 +7374,7 @@
                 "last_commit": "2026-08-20T01:08:52Z",
                 "owner": "focus-creative-games",
                 "repo": "hybridclr",
-                "stars": 7950
+                "stars": 7951
               }
             },
             {
@@ -7389,7 +7389,7 @@
                 "last_commit": "2026-07-31T05:43:29Z",
                 "owner": "Tencent",
                 "repo": "puerts",
-                "stars": 6186
+                "stars": 6187
               }
             },
             {
@@ -7550,7 +7550,7 @@
                 "archived": false,
                 "id": 375427349,
                 "language": "C#",
-                "last_commit": "2026-08-20T15:00:15Z",
+                "last_commit": "2026-08-21T14:13:50Z",
                 "owner": "EOS-Contrib",
                 "repo": "eos_plugin_for_unity",
                 "stars": 415
@@ -7806,7 +7806,7 @@
                 "last_commit": "2026-07-26T08:38:20Z",
                 "owner": "Demigiant",
                 "repo": "dotween",
-                "stars": 2678
+                "stars": 2679
               }
             },
             {
@@ -7821,7 +7821,7 @@
                 "last_commit": "2026-06-30T09:49:06Z",
                 "owner": "annulusgames",
                 "repo": "LitMotion",
-                "stars": 2283
+                "stars": 2284
               }
             },
             {
@@ -7851,7 +7851,7 @@
                 "last_commit": "2026-03-04T17:25:22Z",
                 "owner": "brunomikoski",
                 "repo": "Animation-Sequencer",
-                "stars": 1234
+                "stars": 1233
               }
             },
             {
@@ -8015,7 +8015,7 @@
                 "last_commit": "2026-08-17T08:45:20Z",
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7588
+                "stars": 7593
               }
             },
             {
@@ -8030,7 +8030,7 @@
                 "last_commit": "2026-07-04T06:00:57Z",
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5955
+                "stars": 5956
               }
             },
             {
@@ -8045,7 +8045,7 @@
                 "last_commit": "2026-07-17T14:39:20Z",
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3783
+                "stars": 3785
               }
             },
             {
@@ -8090,7 +8090,7 @@
                 "last_commit": "2026-06-07T20:48:36Z",
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2765
+                "stars": 2766
               }
             },
             {
@@ -8135,7 +8135,7 @@
                 "last_commit": "2026-08-18T14:31:46Z",
                 "owner": "ReactUnity",
                 "repo": "core",
-                "stars": 891
+                "stars": 892
               }
             },
             {
@@ -8360,7 +8360,7 @@
                 "last_commit": "2024-08-06T15:21:25Z",
                 "owner": "kyubuns",
                 "repo": "Auto9Slicer",
-                "stars": 278
+                "stars": 279
               }
             },
             {
@@ -8375,7 +8375,7 @@
                 "last_commit": "2023-09-20T06:51:33Z",
                 "owner": "coryleach",
                 "repo": "UnityGUI",
-                "stars": 242
+                "stars": 241
               }
             },
             {
@@ -8562,7 +8562,7 @@
                 "last_commit": "2026-07-08T03:27:13Z",
                 "owner": "Cysharp",
                 "repo": "ZLinq",
-                "stars": 5243
+                "stars": 5242
               }
             },
             {
@@ -8577,7 +8577,7 @@
                 "last_commit": "2024-08-24T20:37:32Z",
                 "owner": "zalo",
                 "repo": "MathUtilities",
-                "stars": 4752
+                "stars": 4754
               }
             },
             {
@@ -8592,7 +8592,7 @@
                 "last_commit": "2026-07-08T03:26:26Z",
                 "owner": "Cysharp",
                 "repo": "R3",
-                "stars": 3959
+                "stars": 3963
               }
             },
             {
@@ -8622,7 +8622,7 @@
                 "last_commit": "2024-06-04T10:24:05Z",
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2899
+                "stars": 2898
               }
             },
             {
@@ -8637,7 +8637,7 @@
                 "last_commit": "2026-07-31T09:08:19Z",
                 "owner": "FreyaHolmer",
                 "repo": "Mathfs",
-                "stars": 2747
+                "stars": 2748
               }
             },
             {
@@ -8652,7 +8652,7 @@
                 "last_commit": "2024-04-29T17:00:00Z",
                 "owner": "gkngkc",
                 "repo": "UnityStandaloneFileBrowser",
-                "stars": 2457
+                "stars": 2459
               }
             },
             {
@@ -8667,7 +8667,7 @@
                 "last_commit": "2026-07-09T15:46:28Z",
                 "owner": "yasirkula",
                 "repo": "UnityNativeGallery",
-                "stars": 1616
+                "stars": 1617
               }
             },
             {
@@ -9759,7 +9759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:38:45.130Z",
+    "last_updated": "2026-08-22T02:29:41.472Z",
     "original_repository": "insthync/awesome-unity3d",
     "original_repository_id": 78371780,
     "original_repository_sha": "04ef219d39287a950c8bc9e2d3f92023aa1bd7ce",
