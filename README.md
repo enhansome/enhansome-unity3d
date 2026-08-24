@@ -101,7 +101,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### 2D Bones / IK
 
-* [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) ⭐ 5,254 | 🐛 81 | 🌐 C++ | 📅 2026-08-20 - Collection of Spine runtimes including with Unity3d version.
+* [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) ⭐ 5,256 | 🐛 81 | 🌐 C++ | 📅 2026-08-20 - Collection of Spine runtimes including with Unity3d version.
 * [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp) ⭐ 578 | 🐛 52 | 🌐 C# | 📅 2026-05-08 - DragonBones C# Runtime
 * [UnityVoxelTools](https://github.com/meniku/UnityVoxelTools) ⭐ 77 | 🐛 0 | 🌐 C# | 📅 2018-04-27 - Collection of Voxel Utilities for Unity
 
@@ -116,8 +116,8 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### AI Agent
 
 * [AICommand](https://github.com/keijiro/AICommand) ⭐ 4,102 | 🐛 6 | 🌐 C# | 📅 2023-12-05 - ChatGPT integration with the Unity Editor.
-* [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) ⭐ 3,960 | 🐛 50 | 🌐 C# | 📅 2026-08-19 - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
-* [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
+* [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) ⭐ 3,970 | 🐛 51 | 🌐 C# | 📅 2026-08-24 - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
+* [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-08-23 - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
 * [jahro-console/unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) ⭐ 16 | 🐛 0 | 📅 2026-03-20 - Unity AI agentic skills set
 
 ### Analyzer
@@ -195,7 +195,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Character Controllers 2D
 
-* [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) ⭐ 2,163 | 🐛 5 | 🌐 C# | 📅 2023-10-08 - A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc
+* [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) ⭐ 2,164 | 🐛 5 | 🌐 C# | 📅 2023-10-08 - A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc
 * [CharacterController2D](https://github.com/prime31/CharacterController2D) ⭐ 1,110 | 🐛 17 | 🌐 C# | 📅 2019-09-21 - is similar to the built-in Unity CharacterController component. It has a similar API (mainly a move method that takes a delta movement) and provides a firm base with which to make a super solid controller using Unity's 2D system.
 * [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) ⭐ 994 | 🐛 37 | 🌐 C# | 📅 2020-01-10 - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
 * [2D-Platformer-Hunter](https://github.com/ta-david-yu/2D-Platformer-Hunter) ⭐ 364 | 🐛 4 | 🌐 C# | 📅 2024-04-03 - A 2D Platformer Controller in Unity
@@ -204,7 +204,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) ⭐ 1,072 | 🐛 3 | 🌐 C# | 📅 2026-04-12 - Third Person Controller for Unity
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) ⚠️ Archived - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
-* [unity-genshin-impact-movement-system](https://github.com/Wafflus/unity-genshin-impact-movement-system) ⭐ 661 | 🐛 2 | 🌐 C# | 📅 2022-04-13 - A movement system made in Unity that attempts to replicate Genshin Impact Movement.
+* [unity-genshin-impact-movement-system](https://github.com/Wafflus/unity-genshin-impact-movement-system) ⭐ 662 | 🐛 2 | 🌐 C# | 📅 2022-04-13 - A movement system made in Unity that attempts to replicate Genshin Impact Movement.
 * [Project\_TCC](https://github.com/unity3d-jp/Project_TCC) ⭐ 556 | 🐛 3 | 🌐 C# | 📅 2024-04-30 - TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.
 * [Erbium](https://github.com/mikhomak/Erbium) ⭐ 500 | 🐛 0 | 🌐 C# | 📅 2025-05-26 - Third Person Character Controller for unity
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
@@ -225,24 +225,24 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### Console
 
 * [consolation](https://github.com/mminer/consolation) ⭐ 895 | 🐛 1 | 🌐 C# | 📅 2025-06-11 - In-game debug console for Unity.
-* [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) ⭐ 886 | 🐛 38 | 🌐 Java | 📅 2025-10-06 - High-performance Unity iOS/Android logger built with native platform UI
+* [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) ⭐ 887 | 🐛 38 | 🌐 Java | 📅 2025-10-06 - High-performance Unity iOS/Android logger built with native platform UI
 * [Unity3d-BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole) ⭐ 168 | 🐛 2 | 🌐 C# | 📅 2019-02-26 - Console for all your unity needs
 * [jahro-console/unity-package](https://github.com/jahro-console/unity-package) ⭐ 54 | 🐛 0 | 🌐 C# | 📅 2026-05-04 — Unity console plugin & Jahro debugging platform
-* [CSharp Console](https://github.com/niqibiao/unity-csharpconsole) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2026-08-22 - Interactive Roslyn-powered C# REPL for Unity Editor and Runtime. Persistent session state, private member access, remote Player execution via HybridCLR, and an extensible command framework. No compilation wait.
+* [CSharp Console](https://github.com/niqibiao/unity-csharpconsole) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2026-08-23 - Interactive Roslyn-powered C# REPL for Unity Editor and Runtime. Persistent session state, private member access, remote Player execution via HybridCLR, and an extensible command framework. No compilation wait.
 
 ### DOTS
 
-* [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) ⭐ 1,344 | 🐛 0 | 🌐 C# | 📅 2026-08-15 - A Unity DOTS framework
+* [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) ⭐ 1,345 | 🐛 0 | 🌐 C# | 📅 2026-08-15 - A Unity DOTS framework
 * [NSprites](https://github.com/Antoshidza/NSprites) ⭐ 658 | 🐛 1 | 🌐 C# | 📅 2025-06-03 - Unity DOTS Sprite Rendering Package
 * [DMotion](https://github.com/gamedev-pro/dmotion) ⭐ 569 | 🐛 3 | 🌐 C# | 📅 2023-04-05 - A high level Animation Framework for Unity DOTS
 * [unity-deterministic-physics](https://github.com/Kimbatt/unity-deterministic-physics) ⭐ 554 | 🐛 13 | 🌐 C# | 📅 2024-02-14 - Cross-platform deterministic physics simulation in Unity, using DOTS physics and soft floats
 * [dotsnav](https://github.com/dotsnav/dotsnav) ⭐ 510 | 🐛 5 | 🌐 C# | 📅 2022-12-07 - A fully dynamic planar navmesh Unity package supporting agents of any size
+* [VertexAnimation](https://github.com/maxartz15/VertexAnimation) ⭐ 499 | 🐛 4 | 🌐 C# | 📅 2022-12-11 - Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) ⭐ 498 | 🐛 5 | 🌐 C# | 📅 2022-07-31 - Behavior Tree for Unity ECS (DOTS) framework
-* [VertexAnimation](https://github.com/maxartz15/VertexAnimation) ⭐ 498 | 🐛 4 | 🌐 C# | 📅 2022-12-11 - Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) ⭐ 487 | 🐛 4 | 🌐 C# | 📅 2018-09-02 - A demo implementation of Unity Entity Component System with NavMesh
 * [NativeTrees](https://github.com/bartofzo/NativeTrees) ⭐ 485 | 🐛 1 | 🌐 C# | 📅 2024-04-02 - Burst compatible Octree and Quadtree for Unity
 * [KNN](https://github.com/ArthurBrussee/KNN) ⭐ 482 | 🐛 5 | 🌐 C# | 📅 2023-01-18 - Fast K-Nearest Neighbour Library for Unity DOTS
-* [NativeCollections](https://github.com/jacksondunstan/NativeCollections) ⭐ 420 | 🐛 5 | 🌐 C# | 📅 2023-08-26 - Native Collection Types for Unity <https://jacksondunstan.com/articles/tag/native-collection>
+* [NativeCollections](https://github.com/jacksondunstan/NativeCollections) ⭐ 421 | 🐛 5 | 🌐 C# | 📅 2023-08-26 - Native Collection Types for Unity <https://jacksondunstan.com/articles/tag/native-collection>
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) ⭐ 396 | 🐛 4 | 🌐 ShaderLab | 📅 2023-01-08 - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) ⭐ 389 | 🐛 4 | 🌐 C# | 📅 2023-08-16 - A Quadtree Native Collection for Unity DOTS
 * [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) ⭐ 258 | 🐛 1 | 🌐 C# | 📅 2020-09-27 - A simple and reusable skill system
@@ -267,7 +267,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Dependency Injection
 
-* [VContainer](https://github.com/hadashiA/VContainer) ⭐ 3,037 | 🐛 101 | 🌐 C# | 📅 2026-07-01 - The extra fast, minimum code size, GC-free DI (Dependency Inject) library running on Unity (IL2CPP).
+* [VContainer](https://github.com/hadashiA/VContainer) ⭐ 3,038 | 🐛 101 | 🌐 C# | 📅 2026-07-01 - The extra fast, minimum code size, GC-free DI (Dependency Inject) library running on Unity (IL2CPP).
 * [Zenject](https://github.com/modesttree/Zenject) ⭐ 2,934 | 🐛 156 | 🌐 C# | 📅 2024-01-26 - Dependency Injection Framework for Unity3D
 * [reflex](https://github.com/gustavopsantos/reflex) ⭐ 1,610 | 🐛 10 | 🌐 C# | 📅 2026-06-18 - Minimal dependency injection framework for Unity
 * [CatLib](https://github.com/CatLib/CatLib) ⭐ 294 | 🐛 1 | 🌐 C# | 📅 2021-04-12 - CatLib lightweight dependency injection container
@@ -284,7 +284,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### ECS Framework
 
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) ⭐ 7,669 | 🐛 97 | 🌐 C# | 📅 2023-12-30 - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-* [Arch](https://github.com/genaray/Arch) ⭐ 1,803 | 🐛 40 | 🌐 C# | 📅 2026-08-06 - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
+* [Arch](https://github.com/genaray/Arch) ⭐ 1,805 | 🐛 40 | 🌐 C# | 📅 2026-08-06 - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
 * [DefaultEcs](https://github.com/Doraku/DefaultEcs) ⭐ 760 | 🐛 21 | 🌐 C# | 📅 2024-03-01 - DefaultEcs is an Entity Component System framework which aims to be accessible with little constraints while retaining as much performance as possible for game development
 * [actors.unity](https://github.com/PixeyeHQ/actors.unity) ⭐ 758 | 🐛 3 | 🌐 C# | 📅 2023-07-05 - Actors is a framework empowering developers to make better games faster on Unity.
 * [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 754 | 🐛 40 | 🌐 C# | 📅 2026-07-03 - High-performance C# ECS 🔥 with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
@@ -302,7 +302,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 * [MyBox](https://github.com/Deadcows/MyBox) ⭐ 2,194 | 🐛 28 | 🌐 C# | 📅 2026-05-22 - MyBox is a set of attributes, tools and extensions for Unity
 
-* [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) ⭐ 1,975 | 🐛 15 | 🌐 C# | 📅 2026-08-12 - Tools, custom attributes, drawers and extensions for Unity Editor.
+* [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) ⭐ 1,974 | 🐛 15 | 🌐 C# | 📅 2026-08-12 - Tools, custom attributes, drawers and extensions for Unity Editor.
 
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) ⭐ 1,945 | 🐛 9 | 🌐 C# | 📅 2026-02-26 - Extend the Unity Toolbar with your own Editor UI code.
 
@@ -324,7 +324,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 * [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) ⚠️ Archived - Human-friendly hierarchy for Unity
 
-* [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) ⭐ 590 | 🐛 25 | 🌐 C# | 📅 2026-04-04 - Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once
+* [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) ⭐ 590 | 🐛 24 | 🌐 C# | 📅 2026-08-23 - Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once
 
 * [Reorderable Inspector](https://github.com/ChemiKhazi/ReorderableInspector) ⭐ 490 | 🐛 14 | 🌐 C# | 📅 2020-05-26 - Automatic reorderable lists for Unity game engine components
 
@@ -392,12 +392,12 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [KinoGlitch](https://github.com/keijiro/KinoGlitch) ⭐ 2,809 | 🐛 7 | 🌐 C# | 📅 2023-12-05 - Video glitch effects for Unity
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) ⭐ 2,781 | 🐛 8 | 🌐 C# | 📅 2023-01-03 - Shader visual scripting
 * [SpriteGlow](https://github.com/Elringus/SpriteGlow) ⭐ 2,415 | 🐛 0 | 🌐 ShaderLab | 📅 2025-10-15 - A sprite glow effect for Unity game engine
-* [ezy-slice](https://github.com/DavidArayan/ezy-slice) ⭐ 2,264 | 🐛 10 | 🌐 C# | 📅 2023-08-10 - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+* [ezy-slice](https://github.com/DavidArayan/ezy-slice) ⭐ 2,265 | 🐛 10 | 🌐 C# | 📅 2023-08-10 - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [Temporal](https://github.com/playdeadgames/temporal) ⭐ 1,873 | 🐛 9 | 🌐 C# | 📅 2021-04-03 - Temporal Reprojection Anti-Aliasing for Unity 5.0+
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) ⭐ 1,685 | 🐛 5 | 🌐 C# | 📅 2020-10-08 - Effect storage space for Unity 5.
 * [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) ⭐ 1,606 | 🐛 0 | 🌐 C# | 📅 2026-07-17 - Multi-functional shader for the Particle System that supports Universal Render Pipeline (URP) of Unity.
 * [MinimalCompute](https://github.com/cinight/MinimalCompute) ⭐ 1,522 | 🐛 0 | 🌐 C# | 📅 2026-03-24 - Minimal test scenes contains compute shaders, compute buffers etc Playing with the transport between CPU <-> GPU
-* [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) ⭐ 1,039 | 🐛 5 | 🌐 C# | 📅 2018-11-16 - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
+* [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) ⭐ 1,040 | 🐛 5 | 🌐 C# | 📅 2018-11-16 - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 * [HologramShader](https://github.com/andydbc/HologramShader) ⭐ 989 | 🐛 3 | 🌐 C# | 📅 2023-09-07 - Hologram Shader and Material Editor for Unity
 * [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) ⭐ 987 | 🐛 11 | 🌐 C# | 📅 2026-01-07 - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming
 * [Unity-Built-in-Shaders](https://github.com/TwoTailsGames/Unity-Built-in-Shaders) ⚠️ Archived - Unity Built in Shaders
@@ -454,10 +454,10 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Effect-Ocean
 
-* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) ⭐ 3,876 | 🐛 84 | 🌐 C# | 📅 2026-06-18 - An advanced ocean system implemented in Unity3D
+* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) ⭐ 3,878 | 🐛 84 | 🌐 C# | 📅 2026-06-18 - An advanced ocean system implemented in Unity3D
 * [Ceto](https://github.com/Scrawk/Ceto) ⭐ 1,083 | 🐛 6 | 🌐 C# | 📅 2022-01-30 - Ceto: Ocean system for Unity
 * [Ocean\_Community\_Next\_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) ⭐ 1,079 | 🐛 9 | 🌐 C# | 📅 2020-05-19 - Next gen iteration of the unity community ocean shader
-* [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) ⭐ 802 | 🐛 1 | 🌐 C# | 📅 2022-07-07 - FFT ocean for Unity
+* [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) ⭐ 803 | 🐛 1 | 🌐 C# | 📅 2022-07-07 - FFT ocean for Unity
 
 ### Effect-Toon
 
@@ -479,10 +479,10 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Framework
 
-* [QFramework](https://github.com/liangxiegame/QFramework) ⭐ 5,419 | 🐛 9 | 🌐 C# | 📅 2026-07-11 - Your first K.I.S.S Unity 3D Framework
+* [QFramework](https://github.com/liangxiegame/QFramework) ⭐ 5,418 | 🐛 9 | 🌐 C# | 📅 2026-08-23 - Your first K.I.S.S Unity 3D Framework
 * [JEngine](https://github.com/JasonXuDeveloper/JEngine) ⭐ 2,231 | 🐛 3 | 🌐 C# | 📅 2026-04-23 - JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily
 * [Node\_Editor\_Framework](https://github.com/Seneral/Node_Editor_Framework) ⚠️ Archived - Node Editor framework for Unity3D
-* [Fungus](https://github.com/snozbot/fungus) ⭐ 1,945 | 🐛 203 | 🌐 C# | 📅 2025-01-16 - <https://github.com/snozbot/fungus> ⭐ 1,945 | 🐛 203 | 🌐 C# | 📅 2025-01-16
+* [Fungus](https://github.com/snozbot/fungus) ⭐ 1,943 | 🐛 203 | 🌐 C# | 📅 2025-01-16 - <https://github.com/snozbot/fungus> ⭐ 1,943 | 🐛 203 | 🌐 C# | 📅 2025-01-16
 * [KSFramework](https://github.com/mr-kelly/KSFramework) ⭐ 1,813 | 🐛 7 | 🌐 C# | 📅 2022-12-28 - KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
 * [actors](https://github.com/PixeyeHQ/actors) ⭐ 758 | 🐛 3 | 🌐 C# | 📅 2023-07-05 - The Entity Component System framework for Unity. Ease the pain of decoupling data from behaviors
 * [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit) ⭐ 544 | 🐛 7 | 🌐 C# | 📅 2024-03-27 - Brings data-binding to your Unity project
@@ -499,7 +499,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### Gameplay
 
 * [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,607 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - Open source reimplementation of GTA San Andreas game engine in Unity
-* [ezy-slice](https://github.com/DavidArayan/ezy-slice) ⭐ 2,264 | 🐛 10 | 🌐 C# | 📅 2023-08-10 - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+* [ezy-slice](https://github.com/DavidArayan/ezy-slice) ⭐ 2,265 | 🐛 10 | 🌐 C# | 📅 2023-08-10 - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [UnityGameplayAbilitySystem](https://github.com/sjai013/UnityGameplayAbilitySystem) ⚠️ Archived - A unified framework for implementing ability systems in Unity
 * [RPGCore](https://github.com/Fydar/RPGCore) ⭐ 857 | 🐛 23 | 🌐 C# | 📅 2024-07-09 - RPGCore is a toolkit for producing RPG games and mechanics for Unity
 * [Inventory-Pro](https://github.com/devdogio/Inventory-Pro) ⭐ 709 | 🐛 9 | 🌐 C# | 📅 2019-10-06 - The best-selling Inventory System for Unity - now free and open-source!
@@ -523,13 +523,13 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) ⭐ 2,139 | 🐛 12 | 🌐 C# | 📅 2024-05-20 - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 * [Path-Creator](https://github.com/SebLague/Path-Creator) ⭐ 2,084 | 🐛 89 | 🌐 C# | 📅 2024-05-02 - Path creation asset for Unity game development
 * [GOAP](https://github.com/crashkonijn/GOAP) ⭐ 1,752 | 🐛 9 | 🌐 C# | 📅 2026-03-06 - A multi-threaded GOAP system for Unity3D
-* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) ⭐ 1,691 | 🐛 14 | 🌐 C# | 📅 2021-09-28 -
+* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) ⭐ 1,690 | 🐛 14 | 🌐 C# | 📅 2021-09-28 -
   An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility
 * [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM) ⭐ 1,599 | 🐛 11 | 🌐 C# | 📅 2026-03-25 - A fast, tried-and-tested hierarchical finite state machine library for Unity, designed to be easy to use yet powerful without compromising performance.
 * [NPBehave](https://github.com/meniku/NPBehave) ⭐ 1,272 | 🐛 7 | 🌐 C# | 📅 2025-03-16 - Event Driven Behavior Trees for Unity 3D
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer) ⭐ 1,253 | 🐛 20 | 🌐 C# | 📅 2019-10-01 - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine
 * [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) ⭐ 1,181 | 🐛 12 | 🌐 C# | 📅 2026-05-08 - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation
-* [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 932 | 🐛 18 | 🌐 C# | 📅 2026-08-22 - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+* [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 932 | 🐛 18 | 🌐 C# | 📅 2026-08-23 - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * [N:ORCA](https://github.com/Nebukam/com.nebukam.orca) ⭐ 560 | 🐛 1 | 🌐 C# | 📅 2024-07-30 - ORCA / RVO2 Implementation for Unity — Multithreaded using the job system.
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) ⭐ 472 | 🐛 2 | 🌐 C# | 📅 2021-07-15 - A Utility AI for C# and Unity
 * [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) ⭐ 372 | 🐛 0 | 🌐 C# | 📅 2021-04-29 - A Star Pathfinder, 3 axis, multithreaded for Unity
@@ -540,7 +540,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [unity-path-finding](https://github.com/mattatz/unity-path-finding) ⭐ 126 | 🐛 0 | 🌐 C# | 📅 2018-04-16 - Shortest path finding with Dijkstra's algorithm for Unity.
 * [Brainiac](https://github.com/daemon3000/Brainiac) ⭐ 118 | 🐛 1 | 🌐 C# | 📅 2020-03-14 - Behaviour tree editor for Unity3D
 * [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine) ⭐ 112 | 🐛 0 | 🌐 C# | 📅 2022-10-26 - StateMachine for UniTask. StateMachine Editor Included.
-* [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) ⭐ 94 | 🐛 1 | 🌐 C# | 📅 2025-04-12 - About
+* [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) ⭐ 94 | 🐛 1 | 🌐 C# | 📅 2026-08-23 - About
   Custom Nav Mesh Avoidance to replace default one in Unity.
 * [PathFinder3D](https://github.com/TheCyaniteProject/PathFinder3D) ⭐ 81 | 🐛 1 | 🌐 C# | 📅 2025-02-20 - 3D A\* Pathfinding that doesn't need baked navmeshes and can be used with dynamically created terrain (MapMagic or other)
 * [unity-navgen](https://github.com/idbrii/unity-navgen) ⭐ 68 | 🐛 1 | 🌐 C# | 📅 2025-10-30 - Tools for working with Unity's NavMeshComponents and generating navmesh: link generation, mesh cleanup, etc.
@@ -601,14 +601,14 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Lua
 
-* [xLua](https://github.com/Tencent/xLua) ⭐ 10,169 | 🐛 288 | 🌐 C | 📅 2025-11-21 - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.
+* [xLua](https://github.com/Tencent/xLua) ⭐ 10,170 | 🐛 288 | 🌐 C | 📅 2025-11-21 - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.
 * [MoonSharp](https://github.com/xanathar/moonsharp/) ⭐ 1,613 | 🐛 111 | 🌐 C# | 📅 2026-08-04 - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities
 * [slua](https://github.com/pangweiwei/slua) ⭐ 1,419 | 🐛 37 | 🌐 C | 📅 2022-02-18 - Fastest lua binding via static code generating for Unity3D and mono.
 * [UniLua](https://github.com/xebecnan/UniLua) ⭐ 1,121 | 🐛 19 | 🌐 C# | 📅 2024-06-22 - A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 
 ### Lua Utilities
 
-* [LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) ⭐ 2,016 | 🐛 35 | 🌐 C# | 📅 2026-01-05 - LuaProfiler-For-Unity
+* [LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) ⭐ 2,015 | 🐛 35 | 🌐 C# | 📅 2026-01-05 - LuaProfiler-For-Unity
 
 ### Machine Learning
 
@@ -622,11 +622,11 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Meshes
 
-* [Deform](https://github.com/keenanwoodall/Deform) ⭐ 3,675 | 🐛 20 | 🌐 C# | 📅 2024-10-04 - A fully-featured deformer system for Unity
-* [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF) ⭐ 2,223 | 🐛 80 | 🌐 C# | 📅 2026-08-21 - Runtime GLTF Loader for Unity3D
-* [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) ⭐ 2,040 | 🐛 12 | 🌐 C# | 📅 2026-01-07 - Mesh simplification for Unity.
-* [unity-fracture](https://github.com/ElasticSea/unity-fracture) ⭐ 1,329 | 🐛 7 | 🌐 C# | 📅 2021-05-17 - Fracture any mesh at runtime
-* [OpenFracture](https://github.com/dgreenheck/OpenFracture) ⭐ 1,133 | 🐛 10 | 🌐 C# | 📅 2024-07-17 - Open source mesh slicing/fracturing utility for Unity
+* [Deform](https://github.com/keenanwoodall/Deform) ⭐ 3,676 | 🐛 20 | 🌐 C# | 📅 2024-10-04 - A fully-featured deformer system for Unity
+* [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF) ⭐ 2,224 | 🐛 80 | 🌐 C# | 📅 2026-08-21 - Runtime GLTF Loader for Unity3D
+* [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) ⭐ 2,041 | 🐛 12 | 🌐 C# | 📅 2026-01-07 - Mesh simplification for Unity.
+* [unity-fracture](https://github.com/ElasticSea/unity-fracture) ⭐ 1,330 | 🐛 7 | 🌐 C# | 📅 2021-05-17 - Fracture any mesh at runtime
+* [OpenFracture](https://github.com/dgreenheck/OpenFracture) ⭐ 1,135 | 🐛 10 | 🌐 C# | 📅 2024-07-17 - Open source mesh slicing/fracturing utility for Unity
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) ⭐ 1,124 | 🐛 28 | 🌐 C# | 📅 2023-07-21 - A Unity plugin to create curved content in real-time with bézier curves
 * [mesh-cutter](https://github.com/hugoscurti/mesh-cutter) ⭐ 658 | 🐛 4 | 🌐 C# | 📅 2019-03-23 - Simple mesh cutting algorithm that works on simple 3d manifold objects with genus 0
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) ⭐ 423 | 🐛 1 | 🌐 C# | 📅 2022-01-14 - Hull, Delaunay and Voronoi algorithms in Unity
@@ -641,11 +641,11 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### Modding
 
 * [dnSpy](https://github.com/0xd4d/dnSpy) ⚠️ Archived - .NET debugger and assembly editor.
-* [ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 25,917 | 🐛 190 | 🌐 C# | 📅 2026-08-22 - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
+* [ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 25,923 | 🐛 190 | 🌐 C# | 📅 2026-08-23 - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
 * [AssetStudio](https://github.com/Perfare/AssetStudio) ⚠️ Archived - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
-* [Harmony](https://github.com/pardeike/Harmony) ⭐ 6,625 | 🐛 4 | 🌐 C# | 📅 2026-08-15 - A library for patching, replacing and decorating .NET and Mono methods during runtime.
+* [Harmony](https://github.com/pardeike/Harmony) ⭐ 6,626 | 🐛 4 | 🌐 C# | 📅 2026-08-15 - A library for patching, replacing and decorating .NET and Mono methods during runtime.
 * [Fody](https://github.com/Fody/Fody) ⭐ 4,541 | 🐛 4 | 🌐 C# | 📅 2026-08-19 - Extensible tool for weaving .net assemblies.
-* [MelonLoader](https://github.com/LavaGang/MelonLoader) ⭐ 4,125 | 🐛 43 | 🌐 C# | 📅 2026-08-13 - The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono.
+* [MelonLoader](https://github.com/LavaGang/MelonLoader) ⭐ 4,128 | 🐛 42 | 🌐 C# | 📅 2026-08-13 - The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono.
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) ⭐ 3,093 | 🐛 892 | 🌐 C# | 📅 2022-01-14 - GUI and API library for working with Engine assets, serialized and bundle files.
 * [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) ⭐ 1,057 | 🐛 9 | 🌐 C# | 📅 2023-09-22 - hook C# method at runtime without modify dll file (such as UnityEditor.dll)
 * [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) ⭐ 582 | 🐛 23 | 🌐 C | 📅 2026-06-22 - Doorstop -- run C# before Unity does!
@@ -657,16 +657,16 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Monetization
 
-* [Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity) ⭐ 1,541 | 🐛 166 | 🌐 C# | 📅 2026-08-22 - Official Unity Plugin for the Google Mobile Ads SDK
+* [Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity) ⭐ 1,543 | 🐛 167 | 🌐 C# | 📅 2026-08-22 - Official Unity Plugin for the Google Mobile Ads SDK
 * [unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
 * [unity3d-store](https://github.com/soomla/unity3d-store) - Unity in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
 
 ### Networking
 
-* [Nakama](https://github.com/heroiclabs/nakama) ⭐ 13,199 | 🐛 128 | 🌐 Go | 📅 2026-08-21 - An open-source distributed social and realtime server for games and apps by [Heroic Labs](https://heroiclabs.com). It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.
-* [ET](https://github.com/egametang/ET) ⭐ 9,889 | 🐛 87 | 🌐 C# | 📅 2026-08-15 - Unity3D Client And C# Server Framework
+* [Nakama](https://github.com/heroiclabs/nakama) ⭐ 13,202 | 🐛 128 | 🌐 Go | 📅 2026-08-21 - An open-source distributed social and realtime server for games and apps by [Heroic Labs](https://heroiclabs.com). It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.
+* [ET](https://github.com/egametang/ET) ⭐ 9,888 | 🐛 87 | 🌐 C# | 📅 2026-08-15 - Unity3D Client And C# Server Framework
 * [websocket-sharp](https://github.com/sta/websocket-sharp) ⭐ 6,075 | 🐛 559 | 🌐 C# | 📅 2026-08-03 - A C# implementation of the WebSocket protocol client and server
-* [MagicOnion](https://github.com/neuecc/MagicOnion) ⭐ 4,440 | 🐛 8 | 🌐 C# | 📅 2026-08-14 - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
+* [MagicOnion](https://github.com/neuecc/MagicOnion) ⭐ 4,441 | 🐛 8 | 🌐 C# | 📅 2026-08-14 - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
 * [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) ⭐ 3,731 | 🐛 213 | 🌐 C# | 📅 2026-08-20 - Another fucking c# Steamworks implementation
 * [LiteNetLib](https://github.com/RevenantX/LiteNetLib) ⭐ 3,608 | 🐛 8 | 🌐 C# | 📅 2026-06-18 - Lite reliable UDP library for Mono and .NET
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) ⭐ 3,578 | 🐛 173 | 🌐 C# | 📅 2026-08-07 - Steamworks wrapper for Unity / C#
@@ -678,7 +678,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) ⭐ 896 | 🐛 24 | 🌐 C# | 📅 2014-05-04 - socket.io client for unity3d.
 * [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) ⭐ 788 | 🐛 61 | 🌐 C# | 📅 2020-08-20 - Socket.IO Client Library for .Net
 * [UnityLockstep](https://github.com/proepkes/UnityLockstep) ⚠️ Archived - Deterministic Lockstep with serverside framerate for Unity
-* [PurrNet](https://github.com/PurrNet/PurrNet) ⭐ 639 | 🐛 4 | 🌐 C# | 📅 2026-08-21 - A Purrfect Unity Networking Solution
+* [PurrNet](https://github.com/PurrNet/PurrNet) ⭐ 640 | 🐛 4 | 🌐 C# | 📅 2026-08-21 - A Purrfect Unity Networking Solution
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) ⭐ 596 | 🐛 18 | 🌐 C# | 📅 2017-09-13 - A TcpClient-based HTTP library for Unity
 * [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) ⭐ 486 | 🐛 124 | 🌐 C# | 📅 2021-02-22 - Master Server framework for Unity
 * [Networker](https://github.com/MarkioE/Networker) ⚠️ Archived -
@@ -724,18 +724,18 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### Package Manager
 
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) ⭐ 4,551 | 🐛 87 | 🌐 C# | 📅 2026-04-19 - A NuGet Package Manager for Unity
-* [OpenUPM](https://github.com/openupm/openupm) ⭐ 1,896 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22 - OpenUPM - Open Source Unity Package Registry (UPM)
+* [OpenUPM](https://github.com/openupm/openupm) ⭐ 1,896 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23 - OpenUPM - Open Source Unity Package Registry (UPM)
 * [Projeny](https://github.com/modesttree/Projeny) ⭐ 698 | 🐛 54 | 🌐 C# | 📅 2019-02-05 - A project and package manager for Unity.
 * [Pkglnk](https://github.com/PaulNonatomic/pkglnk-unity) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-07-28 - Browse, search, and install Unity packages from the pkglnk.dev package directory
 
 ### Physic
 
-* [UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics) ⭐ 567 | 🐛 14 | 🌐 ShaderLab | 📅 2026-05-05 - A unity addon for adding stretchy bouncy physics to bones and meshes.
+* [UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics) ⭐ 568 | 🐛 14 | 🌐 ShaderLab | 📅 2026-05-05 - A unity addon for adding stretchy bouncy physics to bones and meshes.
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) ⭐ 566 | 🐛 21 | 🌐 C# | 📅 2023-10-26 - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
 * [unity-deterministic-physics](https://github.com/Kimbatt/unity-deterministic-physics) ⭐ 554 | 🐛 13 | 🌐 C# | 📅 2024-02-14 - Cross-platform deterministic physics simulation in Unity, using DOTS physics and soft floats
 * [Fusion](https://github.com/Ninjajie/Fusion) ⭐ 473 | 🐛 4 | 🌐 C# | 📅 2019-08-21 - Unity Physics on GPU
 * [UnityNativeCollision](https://github.com/jeffvella/UnityNativeCollision) ⭐ 284 | 🐛 2 | 🌐 C# | 📅 2019-05-01 - SAT Collision in C# for Unity3D Burst Compiler
-* [box3d-unity](https://github.com/Suvitruf/box3d-unity) ⭐ 219 | 🐛 1 | 🌐 C# | 📅 2026-07-31 - Box3d Physics bindings for Unity
+* [box3d-unity](https://github.com/Suvitruf/box3d-unity) ⭐ 222 | 🐛 1 | 🌐 C# | 📅 2026-07-31 - Box3d Physics bindings for Unity
 * [JoltPhysicsUnity](https://github.com/seep/JoltPhysicsUnity) ⭐ 212 | 🐛 3 | 🌐 C# | 📅 2025-09-10 - Jolt Physics bindings for Unity
 * [Box2D.NET](https://github.com/ikpil/Box2D.NET) ⭐ 204 | 🐛 7 | 🌐 C# | 📅 2026-08-22 - a port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers
 * [RaycastVisualization](https://github.com/nomnomab/RaycastVisualization) ⭐ 180 | 🐛 1 | 🌐 C# | 📅 2025-06-05 - This asset allows users to view raycasts as the user fires them.
@@ -752,7 +752,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Plugins
 
-* [uLipSync](https://github.com/hecomi/uLipSync) ⭐ 1,658 | 🐛 49 | 🌐 C# | 📅 2026-01-06 - <https://github.com/hecomi/uLipSync> ⭐ 1,658 | 🐛 49 | 🌐 C# | 📅 2026-01-06
+* [uLipSync](https://github.com/hecomi/uLipSync) ⭐ 1,659 | 🐛 49 | 🌐 C# | 📅 2026-01-06 - <https://github.com/hecomi/uLipSync> ⭐ 1,659 | 🐛 49 | 🌐 C# | 📅 2026-01-06
 * [Unity3D Android notification plugin](https://github.com/Agasper/unity-android-notifications) ⭐ 559 | 🐛 27 | 🌐 Java | 📅 2019-09-30 - Unity3D Plugin for Android local notifications with example project
 * [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing) ⭐ 453 | 🐛 6 | 🌐 C# | 📅 2022-12-07 - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
 * [Unity-Native-Sharing](https://github.com/NicholasSheehan/Unity-Native-Sharing) ⭐ 453 | 🐛 6 | 🌐 C# | 📅 2022-12-07 - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for text and files
@@ -765,12 +765,12 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### Procedural Generation Systems
 
 * [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse/) ⭐ 4,855 | 🐛 9 | 🌐 C# | 📅 2021-03-28 - Walk through an infinite, procedurally generated city
-* [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) ⭐ 2,899 | 🐛 14 | 🌐 C# | 📅 2024-04-04 - Procedural generation library for Unity
+* [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) ⭐ 2,898 | 🐛 14 | 🌐 C# | 📅 2024-04-04 - Procedural generation library for Unity
 * [ProceduralLevelGenerator-Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) ⭐ 910 | 🐛 12 | 🌐 C# | 📅 2026-08-18 - Unity plugin from procedural dungeon generation
 * [Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity) ⭐ 910 | 🐛 12 | 🌐 C# | 📅 2026-08-18 - Unity Procedural Level Generator
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) ⭐ 489 | 🐛 1 | 🌐 C# | 📅 2017-02-10 - A dungeon generator for Unity
 * [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree) ⭐ 426 | 🐛 1 | 🌐 C# | 📅 2022-12-16 - Procedural tree builder for Unity.
-* [InstantPipes](https://github.com/leth4/InstantPipes) ⭐ 388 | 🐛 0 | 🌐 C# | 📅 2023-09-26 - Unity editor tool for quickly generating pipes—with pathfinding
+* [InstantPipes](https://github.com/leth4/InstantPipes) ⭐ 389 | 🐛 0 | 🌐 C# | 📅 2023-09-26 - Unity editor tool for quickly generating pipes—with pathfinding
 * [Procedural-Cave-Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) ⭐ 317 | 🐛 0 | 🌐 C# | 📅 2018-01-20 - Unity scripts that procedurally generate ready-to-use cave meshes.
 * [makegeo](https://github.com/kurtdekker/makegeo) ⭐ 277 | 🐛 1 | 🌐 C# | 📅 2026-04-11 - Make Geometry - Procedural Unity3D Geometry
 * [unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower) ⭐ 260 | 🐛 0 | 🌐 C# | 📅 2017-01-30 - Procedural flower generator for Unity.
@@ -783,7 +783,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Profobuf
 
-* [protobuf-net](https://github.com/mgravell/protobuf-net) ⭐ 4,969 | 🐛 537 | 🌐 C# | 📅 2026-08-22 - Protocol Buffers library for idiomatic .NET
+* [protobuf-net](https://github.com/mgravell/protobuf-net) ⭐ 4,969 | 🐛 537 | 🌐 C# | 📅 2026-08-23 - Protocol Buffers library for idiomatic .NET
 * [protobuf-unity](https://github.com/5argon/protobuf-unity) ⭐ 476 | 🐛 6 | 🌐 C# | 📅 2026-08-16 - Automatic .proto files compilation in Unity project to C# as you edit them
 
 ### Project Management
@@ -794,7 +794,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 * [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) ⭐ 2,154 | 🐛 10 | 🌐 C# | 📅 2026-04-04 - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes
 * [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,106 | 🐛 9 | 🌐 C# | 📅 2026-08-04 - In-game inspector and debugging tools for applications made with Unity3D game engine
-* [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) ⭐ 772 | 🐛 14 | 🌐 C# | 📅 2022-06-15 - A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime
+* [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) ⭐ 771 | 🐛 14 | 🌐 C# | 📅 2022-06-15 - A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime
 
 ### Scriptable Object
 
@@ -809,8 +809,8 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Scriptings
 
-* [hybridclr](https://github.com/focus-creative-games/hybridclr) ⭐ 7,952 | 🐛 0 | 🌐 C++ | 📅 2026-08-20 - HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
-* [puerts](https://github.com/Tencent/puerts) ⭐ 6,187 | 🐛 312 | 🌐 C++ | 📅 2026-07-31 - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
+* [hybridclr](https://github.com/focus-creative-games/hybridclr) ⭐ 7,953 | 🐛 0 | 🌐 C++ | 📅 2026-08-20 - HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
+* [puerts](https://github.com/Tencent/puerts) ⭐ 6,189 | 🐛 313 | 🌐 C++ | 📅 2026-07-31 - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 * [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐ 2,828 | 🐛 3 | 🌐 C# | 📅 2026-08-11 - Yarn Spinner is a tool for building interactive dialogue in games!
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) ⭐ 1,375 | 🐛 7 | 🌐 C# | 📅 2021-03-06 - Unity Scripting in C++
 * [leanclr](https://github.com/focus-creative-games/leanclr) ⭐ 658 | 🐛 0 | 🌐 C++ | 📅 2026-07-23 - LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR).
@@ -864,8 +864,8 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### Tweening
 
 * [DOTween](https://github.com/Demigiant/dotween) ⭐ 2,679 | 🐛 308 | 🌐 C# | 📅 2026-07-26 - A Unity C# animation engine. HOTween v2
-* [LitMotion](https://github.com/AnnulusGames/LitMotion) ⭐ 2,285 | 🐛 48 | 🌐 C# | 📅 2026-06-30 - Lightning-fast and Zero Allocation Tween Library for Unity.
-* [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) ⭐ 1,971 | 🐛 6 | 🌐 C# | 📅 2026-07-18 - High-performance, allocation-free tween library for Unity. Create animations, delays, and sequences in one line of code.
+* [LitMotion](https://github.com/AnnulusGames/LitMotion) ⭐ 2,284 | 🐛 48 | 🌐 C# | 📅 2026-06-30 - Lightning-fast and Zero Allocation Tween Library for Unity.
+* [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) ⭐ 1,973 | 🐛 6 | 🌐 C# | 📅 2026-07-18 - High-performance, allocation-free tween library for Unity. Create animations, delays, and sequences in one line of code.
 * [Animation-Sequencer](https://github.com/brunomikoski/Animation-Sequencer) ⭐ 1,233 | 🐛 7 | 🌐 C# | 📅 2026-03-04 - A visual tool that allows you to create animated sequences of tweens and tweak them on editor time.
 * [LeanTween](https://github.com/dentedpixel/LeanTween) ⭐ 637 | 🐛 68 | 🌐 C# | 📅 2021-12-02 - LeanTween is an efficient animation engine for Unity
 * [GoKit](https://github.com/prime31/GoKit) ⭐ 591 | 🐛 8 | 🌐 C# | 📅 2020-10-19 - Lightweight tween library for Unity
@@ -883,14 +883,14 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### UI
 
 * [UIEffect](https://github.com/mob-sakai/UIEffect) ⭐ 7,594 | 🐛 9 | 🌐 C# | 📅 2026-08-17 - UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!
-* [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) ⭐ 5,957 | 🐛 43 | 🌐 C# | 📅 2026-07-04 - This plugin provide a component to render particle effect for uGUI in Unity 2018.2+. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas
+* [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) ⭐ 5,958 | 🐛 43 | 🌐 C# | 📅 2026-07-04 - This plugin provide a component to render particle effect for uGUI in Unity 2018.2+. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas
 * [unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts) ⭐ 3,785 | 🐛 8 | 🌐 C# | 📅 2026-07-17 - A charting and data visualization library for Unity.
 * [FancyScrollView](https://github.com/setchi/FancyScrollView) ⭐ 3,521 | 🐛 11 | 🌐 C# | 📅 2022-07-08 - A scrollview component that can be implemented flexible flexible animation
 * [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity) ⭐ 2,964 | 🐛 26 | 🌐 C# | 📅 2026-02-03 - A flexible UI framework for Unity
 * [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect) ⭐ 2,767 | 🐛 1 | 🌐 C# | 📅 2026-06-07 - UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.
 * [UIWidgets](https://github.com/UnityTech/UIWidgets) ⚠️ Archived - UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 * [Unity-UI-Rounded-Corners](https://github.com/Nobinator/Unity-UI-Rounded-Corners) ⭐ 1,740 | 🐛 21 | 🌐 C# | 📅 2024-11-19 - This components and shaders allows you to add rounded corners to UI element
-* [ReactUnity](https://github.com/ReactUnity/core) ⭐ 892 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-18 - React and HTML framework for Unity UI & UIToolkit
+* [ReactUnity](https://github.com/ReactUnity/core) ⭐ 893 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24 - React and HTML framework for Unity UI & UIToolkit
 * [MaterialUI](https://github.com/InvexGames/MaterialUI) ⭐ 774 | 🐛 22 | 🌐 C# | 📅 2017-06-20 - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
 * [Unity-UI-Polygon](https://github.com/CiaccoDavide/Unity-UI-Polygon) ⭐ 642 | 🐛 3 | 🌐 C# | 📅 2021-03-11 - Polygon renderer for the new Unity UI
 * [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) ⭐ 602 | 🐛 10 | 🌐 C# | 📅 2024-02-11 - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit.
@@ -929,9 +929,9 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### Utilities
 
-* [ZLinq](https://github.com/Cysharp/ZLinq) ⭐ 5,242 | 🐛 5 | 🌐 C# | 📅 2026-07-08 - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
+* [ZLinq](https://github.com/Cysharp/ZLinq) ⭐ 5,243 | 🐛 5 | 🌐 C# | 📅 2026-07-08 - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
 * [MathUtilities](https://github.com/zalo/MathUtilities) ⭐ 4,755 | 🐛 0 | 🌐 C# | 📅 2024-08-24 - A collection of some of the neat math and physics tricks that I've collected over the last few years.
-* [R3](https://github.com/Cysharp/R3) ⭐ 3,963 | 🐛 29 | 🌐 C# | 📅 2026-07-08 - The new future of dotnet/reactive and UniRx.
+* [R3](https://github.com/Cysharp/R3) ⭐ 3,964 | 🐛 28 | 🌐 C# | 📅 2026-07-08 - The new future of dotnet/reactive and UniRx.
 * [Rant](https://github.com/TheBerkin/rant) ⚠️ Archived - Robust text engine for procedural generation and postprocessing
 * [graphy](https://github.com/Tayx94/graphy) ⭐ 2,897 | 🐛 12 | 🌐 C# | 📅 2024-06-04 - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project
 * [Mathfs](https://github.com/FreyaHolmer/Mathfs) ⭐ 2,748 | 🐛 3 | 🌐 C# | 📅 2026-07-31 - Expanded Math Functionality for Unity
@@ -945,11 +945,11 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [unityassets](https://github.com/fholm/unityassets) ⚠️ Archived - Assorted assets previously on sale on the Unity Asset Store, now free on github.
 * [UnityOctree](https://github.com/Nition/UnityOctree) ⚠️ Archived - A dynamic, loose octree implementation for Unity written in C#
 * [Moments](https://github.com/Chman/Moments) ⭐ 862 | 🐛 16 | 🌐 C# | 📅 2023-04-11 - A quick GIF replay recorder for Unity
-* [Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference) ⭐ 837 | 🐛 2 | 🌐 C# | 📅 2026-04-12 - Unity Scene References for Runtime and Editor. Strongly typed, robust, and reliable. Provides GUID, Path, Build Index, Name, and Address.
+* [Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference) ⭐ 838 | 🐛 2 | 🌐 C# | 📅 2026-04-12 - Unity Scene References for Runtime and Editor. Strongly typed, robust, and reliable. Provides GUID, Path, Build Index, Name, and Address.
 * [demilib](https://github.com/Demigiant/demilib) ⭐ 765 | 🐛 5 | 🌐 C# | 📅 2026-08-02 - A library of various utilities and tools for Unity (alpha)
 * [UnityPack](https://github.com/HearthSim/UnityPack) ⭐ 750 | 🐛 48 | 🌐 Python | 📅 2022-01-06 - Python deserialization library for Unity3D Asset format
 * [PrefabLightmapping](https://github.com/Ayfel/PrefabLightmapping) ⭐ 744 | 🐛 29 | 🌐 C# | 📅 2024-11-25 - Script for saving lightmapping data to prefabs. Used through the Assets tab in Unity.
-* [Scene Reference Attribute](https://github.com/KyleBanks/scene-ref-attribute) ⭐ 575 | 🐛 6 | 🌐 C# | 📅 2026-08-01 - Unity C# attribute for serializing component and interface references within the scene or prefab during OnValidate.
+* [Scene Reference Attribute](https://github.com/KyleBanks/scene-ref-attribute) ⭐ 576 | 🐛 6 | 🌐 C# | 📅 2026-08-01 - Unity C# attribute for serializing component and interface references within the scene or prefab during OnValidate.
 * [UniGif](https://github.com/WestHillApps/UniGif) ⭐ 497 | 🐛 4 | 🌐 C# | 📅 2025-09-11 - GIF image decoder for Unity.
 * [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) ⭐ 440 | 🐛 3 | 🌐 C# | 📅 2022-07-28 - A simple procedural generator of alchemy circles
 * [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) ⭐ 433 | 🐛 11 | 🌐 C# | 📅 2018-10-26 - MikuMikuDance for Unity
@@ -999,13 +999,13 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### VR/XR
 
-* [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) ⭐ 6,077 | 🐛 5 | 🌐 C# | 📅 2026-07-24 - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
+* [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) ⭐ 6,077 | 🐛 6 | 🌐 C# | 📅 2026-07-24 - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
 * [VRTK](https://github.com/thestonefox/VRTK) ⭐ 3,721 | 🐛 23 | 🌐 C# | 📅 2024-04-24 - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
 * [Google VR SDK for Unity](https://github.com/googlevr/gvr-unity-sdk) ⚠️ Archived - Google VR SDK for Unity <http://developers.google.com/vr/unity/>
 * [unity-webxr-export](https://github.com/De-Panther/unity-webxr-export) ⭐ 1,255 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-13 - Develop and export WebXR experiences using Unity WebGL
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) ⭐ 796 | 🐛 58 | 🌐 C# | 📅 2024-01-03 - A virtual reality interaction system for unity based on physics.
 * [Simple-WebXR-Unity](https://github.com/Rufus31415/Simple-WebXR-Unity) ⭐ 609 | 🐛 13 | 🌐 C# | 📅 2025-11-12 - SimpleWebXR is a lightweight library that exposes the WebXR javascript API in your C# Unity code.
-* [ultimatexr-unity](https://github.com/VRMADA/ultimatexr-unity) ⭐ 561 | 🐛 31 | 🌐 C# | 📅 2026-06-08 - UltimateXR is a free, open source framework that facilitates the creation of VR applications.
+* [ultimatexr-unity](https://github.com/VRMADA/ultimatexr-unity) ⭐ 560 | 🐛 31 | 🌐 C# | 📅 2026-06-08 - UltimateXR is a free, open source framework that facilitates the creation of VR applications.
 * [HPTK](https://github.com/jorgejgnz/HPTK) ⚠️ Archived - Hand Physics Toolkit (HPTK) is a toolkit to build physical hand-driven interactions in a modular and scalable way.
 * [XRTK](https://github.com/XRTK/XRTK-Core) ⚠️ Archived - The Official Mixed Reality Framework for Unity
 * [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) ⭐ 241 | 🐛 0 | 🌐 C# | 📅 2024-08-19 - The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
@@ -1062,4 +1062,4 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
