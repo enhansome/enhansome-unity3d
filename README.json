@@ -18,7 +18,8 @@
                 "owner": "elringus",
                 "repo": "sprite-dicing",
                 "stars": 1515
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2021-01-23T00:21:04Z",
                 "owner": "cmilr",
                 "repo": "Unity2D-Components",
-                "stars": 815
-              }
+                "stars": 814
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "cmilr",
                 "repo": "DeadSimple-Pixel-Perfect-Camera",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "mob-sakai",
                 "repo": "StaticBluredScreen",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "geniikw",
                 "repo": "DataRenderer2D",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "mob-sakai",
                 "repo": "AtlasImage",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "sinbad",
                 "repo": "UnitySpline2D",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "2YY",
                 "repo": "aseprite-importer-for-unity",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -144,8 +152,9 @@
                 "last_commit": "2026-08-20T20:33:11Z",
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5266
-              }
+                "stars": 5267
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "DragonBones",
                 "repo": "DragonBonesCSharp",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "meniku",
                 "repo": "UnityVoxelTools",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -197,7 +208,8 @@
                 "owner": "OneYoungMean",
                 "repo": "Automatic-DynamicBone",
                 "stars": 1177
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "LukasFratzl",
                 "repo": "TurboSequence",
                 "stars": 562
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "EZhex1991",
                 "repo": "EZSoftBone",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "ehsan-mohammadi",
                 "repo": "Aim-IK",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "hairibar",
                 "repo": "Hairibar.Ragdoll",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -279,7 +295,8 @@
                 "owner": "keijiro",
                 "repo": "AICommand",
                 "stars": 4103
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -293,8 +310,9 @@
                 "last_commit": "2026-08-24T23:55:08Z",
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 3995
-              }
+                "stars": 4007
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "niqibiao",
                 "repo": "unity-cli-skill",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "jahro-console",
                 "repo": "unity-agent-skills",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -346,7 +366,8 @@
                 "owner": "pschraut",
                 "repo": "UnityHeapExplorer",
                 "stars": 1207
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "nskrkmz",
                 "repo": "CrashReporter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -375,8 +397,9 @@
                 "last_commit": "2026-08-25T17:39:56Z",
                 "owner": "RekonOps",
                 "repo": "Rekon-unity",
-                "stars": 1
-              }
+                "stars": 7
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -398,7 +421,8 @@
                 "owner": "OneYoungMean",
                 "repo": "Automatic-DynamicBone",
                 "stars": 1177
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "codewriter-packages",
                 "repo": "Mesh-Animation",
                 "stars": 537
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "aarthificial",
                 "repo": "reanimation",
                 "stars": 511
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "Sopiro",
                 "repo": "Unity-Procedural-Animation",
                 "stars": 405
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -458,7 +485,8 @@
                 "owner": "kyubuns",
                 "repo": "AnimeTask",
                 "stars": 395
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -473,7 +501,8 @@
                 "owner": "beinteractive",
                 "repo": "UrMotion",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -488,7 +517,8 @@
                 "owner": "ashblue",
                 "repo": "unity-animator-helpers",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -503,7 +533,8 @@
                 "owner": "edualvarado",
                 "repo": "unity-antagonistic-controller",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -518,7 +549,8 @@
                 "owner": "SkS-GameDev",
                 "repo": "Body-motion-capture-and-animation-in-Unity",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -533,7 +565,8 @@
                 "owner": "SkS-GameDev",
                 "repo": "Hand-motion-capture-and-animation-in-Unity",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -554,8 +587,9 @@
                 "last_commit": "2026-07-19T05:02:31Z",
                 "owner": "focus-creative-games",
                 "repo": "obfuz",
-                "stars": 796
-              }
+                "stars": 798
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -570,7 +604,8 @@
                 "owner": "Ether2023",
                 "repo": "Ether-Uprotector",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -585,7 +620,8 @@
                 "owner": "ookii-tsuki",
                 "repo": "SafeValues",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -606,8 +642,9 @@
                 "last_commit": "2024-06-24T07:23:59Z",
                 "owner": "BoundingBoxSoftware",
                 "repo": "Materialize",
-                "stars": 1790
-              }
+                "stars": 1792
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -622,7 +659,8 @@
                 "owner": "kyubuns",
                 "repo": "Baum2",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -637,7 +675,8 @@
                 "owner": "GlitchEnzo",
                 "repo": "UnityPSDLayoutTool",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -652,7 +691,8 @@
                 "owner": "ChemiKhazi",
                 "repo": "UnityPsdImporter",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -667,7 +707,8 @@
                 "owner": "KonH",
                 "repo": "StableDiffusionUnityTools",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -688,8 +729,9 @@
                 "last_commit": "2026-08-11T08:05:44Z",
                 "owner": "tuyoogame",
                 "repo": "YooAsset",
-                "stars": 3348
-              }
+                "stars": 3349
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -704,7 +746,8 @@
                 "owner": "favoyang",
                 "repo": "unity-addressable-importer",
                 "stars": 944
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -719,7 +762,8 @@
                 "owner": "CyberAgentGameEntertainment",
                 "repo": "SmartAddresser",
                 "stars": 608
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -734,7 +778,8 @@
                 "owner": "SadPandaStudios",
                 "repo": "AssetBundleManager",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -749,7 +794,8 @@
                 "owner": "Haruma-K",
                 "repo": "EZAddresser",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -764,7 +810,8 @@
                 "owner": "perholmes",
                 "repo": "UnityAutoBundles",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -779,7 +826,8 @@
                 "owner": "locus84",
                 "repo": "Locus-Bundle-System-v2",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -801,7 +849,8 @@
                 "owner": "MathewHDYT",
                 "repo": "Unity-Audio-Manager",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -816,7 +865,8 @@
                 "owner": "annulusgames",
                 "repo": "LucidAudio",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -831,7 +881,8 @@
                 "owner": "debox-dev",
                 "repo": "Unity_AudioRig",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -853,7 +904,8 @@
                 "owner": "RealityStop",
                 "repo": "Bolt.Addons.Community",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -875,7 +927,8 @@
                 "owner": "superunitybuild",
                 "repo": "buildtool",
                 "stars": 1345
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -886,11 +939,12 @@
                 "archived": false,
                 "id": 225049270,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:30:37Z",
+                "last_commit": "2026-08-28T03:10:40Z",
                 "owner": "game-ci",
                 "repo": "unity-builder",
                 "stars": 1083
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -905,7 +959,8 @@
                 "owner": "sttz",
                 "repo": "trimmer",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -920,7 +975,8 @@
                 "owner": "sinbad",
                 "repo": "UnityMultiBuild",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -935,7 +991,8 @@
                 "owner": "Team-on",
                 "repo": "UnityBuildManager",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -950,7 +1007,8 @@
                 "owner": "pCYSl5EDgo",
                 "repo": "setup-unity",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -965,7 +1023,8 @@
                 "owner": "SkS-GameDev",
                 "repo": "Builds-Manager",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -980,7 +1039,8 @@
                 "owner": "TolinSimpson",
                 "repo": "Unity-GitHub-Build-Automation",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -1002,7 +1062,8 @@
                 "owner": "cmilr",
                 "repo": "DeadSimple-Pixel-Perfect-Camera",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1017,7 +1078,8 @@
                 "owner": "gasgiant",
                 "repo": "Camera-Shake",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1032,7 +1094,8 @@
                 "owner": "lopespm",
                 "repo": "unity-camera-multi-target",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1047,7 +1110,8 @@
                 "owner": "rsodre",
                 "repo": "FulldomeCameraForUnity",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1126,8 @@
                 "owner": "SubjectNerd-Unity",
                 "repo": "UnityPixelCamera",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1142,8 @@
                 "owner": "XJINE",
                 "repo": "Unity_SceneCameraController",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -1099,7 +1165,8 @@
                 "owner": "Matthew-J-Spencer",
                 "repo": "Ultimate-2D-Controller",
                 "stars": 2165
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1114,7 +1181,8 @@
                 "owner": "prime31",
                 "repo": "CharacterController2D",
                 "stars": 1110
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1128,8 +1196,9 @@
                 "last_commit": "2020-01-10T22:50:27Z",
                 "owner": "cjddmut",
                 "repo": "Unity-2D-Platformer-Controller",
-                "stars": 995
-              }
+                "stars": 994
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1144,7 +1213,8 @@
                 "owner": "ta-david-yu",
                 "repo": "2D-Platformer-Hunter",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -1166,7 +1236,8 @@
                 "owner": "dbrizov",
                 "repo": "Unity-CharacterController",
                 "stars": 1072
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1181,7 +1252,8 @@
                 "owner": "IronWarrior",
                 "repo": "SuperCharacterController",
                 "stars": 764
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1196,7 +1268,8 @@
                 "owner": "Wafflus",
                 "repo": "unity-genshin-impact-movement-system",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1211,7 +1284,8 @@
                 "owner": "unity3d-jp",
                 "repo": "Project_TCC",
                 "stars": 556
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1226,7 +1300,8 @@
                 "owner": "mishanyaqq",
                 "repo": "Erbium",
                 "stars": 500
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -1248,7 +1323,8 @@
                 "owner": "annulusgames",
                 "repo": "UnityCodeGen",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -1270,7 +1346,8 @@
                 "owner": "mminer",
                 "repo": "consolation",
                 "stars": 895
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1285,7 +1362,8 @@
                 "owner": "SpaceMadness",
                 "repo": "lunar-unity-console",
                 "stars": 887
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1300,7 +1378,8 @@
                 "owner": "pointcache",
                 "repo": "Unity3d-BeastConsole",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1315,7 +1394,8 @@
                 "owner": "jahro-console",
                 "repo": "unity-package",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1330,7 +1410,8 @@
                 "owner": "niqibiao",
                 "repo": "unity-csharpconsole",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -1352,7 +1433,8 @@
                 "owner": "Dreaming381",
                 "repo": "Latios-Framework",
                 "stars": 1346
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1367,7 +1449,8 @@
                 "owner": "Antoshidza",
                 "repo": "NSprites",
                 "stars": 658
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1382,7 +1465,8 @@
                 "owner": "gabrieldechichi",
                 "repo": "dmotion",
                 "stars": 569
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1397,7 +1481,8 @@
                 "owner": "Kimbatt",
                 "repo": "unity-deterministic-physics",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1412,7 +1497,8 @@
                 "owner": "dotsnav",
                 "repo": "dotsnav",
                 "stars": 510
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1427,7 +1513,8 @@
                 "owner": "maxartz15",
                 "repo": "VertexAnimation",
                 "stars": 499
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1442,7 +1529,8 @@
                 "owner": "quabug",
                 "repo": "EntitiesBT",
                 "stars": 498
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1457,7 +1545,8 @@
                 "owner": "zulfajuniadi",
                 "repo": "unity-ecs-navmesh",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1472,7 +1561,8 @@
                 "owner": "bartofzo",
                 "repo": "NativeTrees",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1487,7 +1577,8 @@
                 "owner": "ArthurBrussee",
                 "repo": "KNN",
                 "stars": 482
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1502,7 +1593,8 @@
                 "owner": "jacksondunstan",
                 "repo": "NativeCollections",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1517,7 +1609,8 @@
                 "owner": "fabriziospadaro",
                 "repo": "SpriteSheetRenderer",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1532,7 +1625,8 @@
                 "owner": "marijnz",
                 "repo": "NativeQuadtree",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1547,7 +1641,8 @@
                 "owner": "yika-aixi",
                 "repo": "IcSkillSystem",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1562,7 +1657,8 @@
                 "owner": "marijnz",
                 "repo": "NativeOctree",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1577,7 +1673,8 @@
                 "owner": "PlasticApps",
                 "repo": "PlasticTween",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1592,7 +1689,8 @@
                 "owner": "ssell",
                 "repo": "UnityDotsCharacterController",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1607,7 +1705,8 @@
                 "owner": "dreamfairy",
                 "repo": "Unity_ECS_GPUSkinning",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1622,7 +1721,8 @@
                 "owner": "Omniaffix-Dave",
                 "repo": "Unity-2D-Pathfinding-Grid-ECS-Job",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1637,7 +1737,8 @@
                 "owner": "InitialPrefabs",
                 "repo": "UGUIDOTS",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1652,7 +1753,8 @@
                 "owner": "Xerios",
                 "repo": "ECS-Tween",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1667,7 +1769,8 @@
                 "owner": "periodyctom",
                 "repo": "Hydrogen.Entities",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1682,7 +1785,8 @@
                 "owner": "JonasDeM",
                 "repo": "EntitySelection",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1697,7 +1801,8 @@
                 "owner": "JonasDeM",
                 "repo": "EntitySelection",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1817,8 @@
                 "owner": "Sylmerria",
                 "repo": "Spatial-Hashing",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1727,7 +1833,8 @@
                 "owner": "AkanshDivker",
                 "repo": "Simple-ECS",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1742,7 +1849,8 @@
                 "owner": "jeffcampbellmakesgames",
                 "repo": "unity-jtween",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1757,7 +1865,8 @@
                 "owner": "Blissgig",
                 "repo": "Easy-Road-3D-ECS-Traffic",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1772,7 +1881,8 @@
                 "owner": "actionk",
                 "repo": "ECSEntityBuilder",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1787,7 +1897,8 @@
                 "owner": "bustedbunny",
                 "repo": "Pathfinding",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1802,7 +1913,8 @@
                 "owner": "actionk",
                 "repo": "ECSPowerNetcode",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1817,7 +1929,8 @@
                 "owner": "tbg10101",
                 "repo": "DOTS-Hybrid-Simulation-Worlds",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -1839,7 +1952,8 @@
                 "owner": "hadashiA",
                 "repo": "VContainer",
                 "stars": 3042
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1854,7 +1968,8 @@
                 "owner": "modesttree",
                 "repo": "Zenject",
                 "stars": 2934
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1868,8 +1983,9 @@
                 "last_commit": "2026-06-18T01:41:03Z",
                 "owner": "gustavopsantos",
                 "repo": "Reflex",
-                "stars": 1611
-              }
+                "stars": 1612
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1884,7 +2000,8 @@
                 "owner": "CatLib",
                 "repo": "CatLib",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1899,7 +2016,8 @@
                 "owner": "intentor",
                 "repo": "adic",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1914,7 +2032,8 @@
                 "owner": "kubpica",
                 "repo": "AtreeboosterDI",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -1936,7 +2055,8 @@
                 "owner": "elringus",
                 "repo": "unity-google-drive",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1951,7 +2071,8 @@
                 "owner": "sinbad",
                 "repo": "UnityCsvUtil",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1966,7 +2087,8 @@
                 "owner": "yasirkula",
                 "repo": "UnityEditorGoogleDriveIntegration",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -1981,7 +2103,8 @@
                 "owner": "5argon",
                 "repo": "GoogleSheetsUnity",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -2002,8 +2125,9 @@
                 "last_commit": "2023-12-30T16:18:56Z",
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7671
-              }
+                "stars": 7672
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2017,8 +2141,9 @@
                 "last_commit": "2026-08-06T18:30:40Z",
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1808
-              }
+                "stars": 1810
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2033,7 +2158,8 @@
                 "owner": "Doraku",
                 "repo": "DefaultEcs",
                 "stars": 760
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2048,7 +2174,8 @@
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
                 "stars": 759
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2063,7 +2190,8 @@
                 "owner": "PixeyeHQ",
                 "repo": "actors.unity",
                 "stars": 758
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2078,7 +2206,8 @@
                 "owner": "scellecs",
                 "repo": "morpeh",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2093,7 +2222,8 @@
                 "owner": "chromealex",
                 "repo": "ecs",
                 "stars": 562
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2108,7 +2238,8 @@
                 "owner": "EcsRx",
                 "repo": "ecsrx.unity",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2123,7 +2254,8 @@
                 "owner": "Leopotam",
                 "repo": "ecs",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2138,7 +2270,8 @@
                 "owner": "SinyavtsevIlya",
                 "repo": "NanoECS",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -2159,8 +2292,9 @@
                 "last_commit": "2026-06-29T17:47:03Z",
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5202
-              }
+                "stars": 5203
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2174,8 +2308,9 @@
                 "last_commit": "2026-04-01T15:22:33Z",
                 "owner": "handzlikchris",
                 "repo": "FastScriptReload",
-                "stars": 2235
-              }
+                "stars": 2236
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2190,7 +2325,8 @@
                 "owner": "andrumak",
                 "repo": "MyBox",
                 "stars": 2195
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2205,7 +2341,8 @@
                 "owner": "arimger",
                 "repo": "Unity-Editor-Toolbox",
                 "stars": 1973
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2219,8 +2356,9 @@
                 "last_commit": "2026-02-26T17:09:42Z",
                 "owner": "marijnz",
                 "repo": "unity-toolbar-extender",
-                "stars": 1945
-              }
+                "stars": 1946
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2235,7 +2373,8 @@
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
                 "stars": 1371
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2250,7 +2389,8 @@
                 "owner": "madsbangh",
                 "repo": "EasyButtons",
                 "stars": 1199
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2265,7 +2405,8 @@
                 "owner": "kimsama",
                 "repo": "Unity-QuickSheet",
                 "stars": 1085
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2280,7 +2421,8 @@
                 "owner": "neon-age",
                 "repo": "Smart-Inspector",
                 "stars": 933
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2295,7 +2437,8 @@
                 "owner": "smkplus",
                 "repo": "CustomToolbar",
                 "stars": 688
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2310,7 +2453,8 @@
                 "owner": "Borod4r",
                 "repo": "unity3d-rainbow-folders",
                 "stars": 650
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2325,7 +2469,8 @@
                 "owner": "cfoulston",
                 "repo": "Unity-Reorderable-List",
                 "stars": 646
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2340,7 +2485,8 @@
                 "owner": "roboryantron",
                 "repo": "UnityEditorJunkie",
                 "stars": 632
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2355,7 +2501,8 @@
                 "owner": "neon-age",
                 "repo": "Smart-Hierarchy",
                 "stars": 615
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2370,7 +2517,8 @@
                 "owner": "redbluegames",
                 "repo": "unity-mulligan-renamer",
                 "stars": 590
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2385,7 +2533,8 @@
                 "owner": "SubjectNerd-Unity",
                 "repo": "ReorderableInspector",
                 "stars": 490
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2400,7 +2549,8 @@
                 "owner": "vexe",
                 "repo": "VFW",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2415,7 +2565,8 @@
                 "owner": "xeleh",
                 "repo": "enhancer",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2430,7 +2581,8 @@
                 "owner": "Unity-Harry",
                 "repo": "Unity-AssetDependencyGraph",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2445,7 +2597,8 @@
                 "owner": "gasgiant",
                 "repo": "Markup-Attributes",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2460,7 +2613,8 @@
                 "owner": "anchan828",
                 "repo": "property-drawer-collection",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2475,7 +2629,8 @@
                 "owner": "UnitySuperEditor",
                 "repo": "SuperEditor",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2490,7 +2645,8 @@
                 "owner": "raphael-ernaelsten",
                 "repo": "Texture3DPreview-for-Unity",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2505,7 +2661,8 @@
                 "owner": "Facepunch",
                 "repo": "WhatUsesThis",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2520,7 +2677,8 @@
                 "owner": "marijnz",
                 "repo": "unity-editor-spotlight",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2535,7 +2693,8 @@
                 "owner": "truongnguyentungduy",
                 "repo": "hierarchy-2",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2550,7 +2709,8 @@
                 "owner": "slavniyteo",
                 "repo": "one-line",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2565,7 +2725,8 @@
                 "owner": "annulusgames",
                 "repo": "LucidEditor",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2580,7 +2741,8 @@
                 "owner": "MerlinVR",
                 "repo": "EasyEventEditor",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2595,7 +2757,8 @@
                 "owner": "karl-",
                 "repo": "unity-symlink-utility",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2610,7 +2773,8 @@
                 "owner": "shelleylowe",
                 "repo": "unity-colourlovers-importer",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2625,7 +2789,8 @@
                 "owner": "staggartcreations",
                 "repo": "UnitySceneViewNotification",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2640,7 +2805,8 @@
                 "owner": "karl-",
                 "repo": "UnityDefineManager",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2655,7 +2821,8 @@
                 "owner": "david-knopp",
                 "repo": "Atlas",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2670,7 +2837,8 @@
                 "owner": "TinyPHX",
                 "repo": "Readme",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2685,7 +2853,8 @@
                 "owner": "litefeel",
                 "repo": "Unity-Finder",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2700,7 +2869,8 @@
                 "owner": "QuantumCalzone",
                 "repo": "UnityGitPackageUpdater",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2715,7 +2885,8 @@
                 "owner": "AscendingMan",
                 "repo": "meshpreview",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2730,7 +2901,8 @@
                 "owner": "Team-on",
                 "repo": "UnityScreenShooter",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2745,7 +2917,8 @@
                 "owner": "Nutshell-Hack",
                 "repo": "Tidy-Up",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2760,7 +2933,8 @@
                 "owner": "intentor",
                 "repo": "shortcuter",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2775,7 +2949,8 @@
                 "owner": "BadranRaza",
                 "repo": "com.unity.ide.antigravity",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2790,7 +2965,8 @@
                 "owner": "baobao",
                 "repo": "SearchStringInAssets",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -2811,8 +2987,9 @@
                 "last_commit": "2023-07-14T17:42:11Z",
                 "owner": "QianMo",
                 "repo": "X-PostProcessing-Library",
-                "stars": 3555
-              }
+                "stars": 3557
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2827,7 +3004,8 @@
                 "owner": "keijiro",
                 "repo": "KinoGlitch",
                 "stars": 2811
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2842,7 +3020,8 @@
                 "owner": "FreyaHolmer",
                 "repo": "ShaderForge",
                 "stars": 2782
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2857,7 +3036,8 @@
                 "owner": "elringus",
                 "repo": "sprite-glow",
                 "stars": 2415
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2872,7 +3052,8 @@
                 "owner": "DavidArayan",
                 "repo": "ezy-slice",
                 "stars": 2266
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2887,7 +3068,8 @@
                 "owner": "playdeadgames",
                 "repo": "temporal",
                 "stars": 1873
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2901,8 +3083,9 @@
                 "last_commit": "2020-10-08T16:57:18Z",
                 "owner": "i-saint",
                 "repo": "Unity5Effects",
-                "stars": 1685
-              }
+                "stars": 1684
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2916,8 +3099,9 @@
                 "last_commit": "2026-07-17T05:13:02Z",
                 "owner": "CyberAgentGameEntertainment",
                 "repo": "NovaShader",
-                "stars": 1607
-              }
+                "stars": 1608
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2932,7 +3116,8 @@
                 "owner": "cinight",
                 "repo": "MinimalCompute",
                 "stars": 1522
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2947,7 +3132,8 @@
                 "owner": "AdultLink",
                 "repo": "RadialProgressBar",
                 "stars": 1040
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2962,7 +3148,8 @@
                 "owner": "andydbc",
                 "repo": "HologramShader",
                 "stars": 988
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2977,7 +3164,8 @@
                 "owner": "wudixiaop",
                 "repo": "ShaderlabVS",
                 "stars": 987
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -2992,7 +3180,8 @@
                 "owner": "TwoTailsGames",
                 "repo": "Unity-Built-in-Shaders",
                 "stars": 962
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3007,7 +3196,8 @@
                 "owner": "andydbc",
                 "repo": "unity-frosted-glass",
                 "stars": 911
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3022,7 +3212,8 @@
                 "owner": "OskarSigvardsson",
                 "repo": "unity-delaunay",
                 "stars": 835
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3037,7 +3228,8 @@
                 "owner": "OskarSigvardsson",
                 "repo": "unity-delaunay",
                 "stars": 835
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3052,7 +3244,8 @@
                 "owner": "TheMasonX",
                 "repo": "UnityPCSS",
                 "stars": 784
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3067,7 +3260,8 @@
                 "owner": "Cyanilux",
                 "repo": "URP_ShaderGraphCustomLighting",
                 "stars": 778
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3082,7 +3276,8 @@
                 "owner": "OCASM",
                 "repo": "SSMS",
                 "stars": 749
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3097,7 +3292,8 @@
                 "owner": "AdultLink",
                 "repo": "TexturePanner",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3112,7 +3308,8 @@
                 "owner": "AdultLink",
                 "repo": "TexturePanner",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3127,7 +3324,8 @@
                 "owner": "fluviofx",
                 "repo": "fluviofx",
                 "stars": 702
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3142,7 +3340,8 @@
                 "owner": "Hoyotoon",
                 "repo": "HoyoToon",
                 "stars": 701
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3157,7 +3356,8 @@
                 "owner": "SlightlyMad",
                 "repo": "AtmosphericScattering",
                 "stars": 684
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3172,7 +3372,8 @@
                 "owner": "AdultLink",
                 "repo": "VerticalDissolve",
                 "stars": 649
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3187,7 +3388,8 @@
                 "owner": "Fewes",
                 "repo": "BNAO",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3202,7 +3404,8 @@
                 "owner": "AdultLink",
                 "repo": "HoloShield",
                 "stars": 566
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3217,7 +3420,8 @@
                 "owner": "ellioman",
                 "repo": "ShaderProject",
                 "stars": 551
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3232,7 +3436,8 @@
                 "owner": "setchi",
                 "repo": "Unity-ShaderSketches",
                 "stars": 497
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3247,7 +3452,8 @@
                 "owner": "AdultLink",
                 "repo": "SphereDissolve",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3262,7 +3468,8 @@
                 "owner": "AtwoodDeng",
                 "repo": "JourneySand",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3277,7 +3484,8 @@
                 "owner": "Chman",
                 "repo": "SMAA",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3292,7 +3500,8 @@
                 "owner": "ndepoel",
                 "repo": "FSR3Unity",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3307,7 +3516,8 @@
                 "owner": "kayac",
                 "repo": "kamakura-shaders",
                 "stars": 354
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3322,7 +3532,8 @@
                 "owner": "knapeczadam",
                 "repo": "unity-shaders",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3337,7 +3548,8 @@
                 "owner": "EricFreeman",
                 "repo": "DynamicDecals",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3352,7 +3564,8 @@
                 "owner": "AmplifyCreations",
                 "repo": "AmplifyOcclusion",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3367,7 +3580,8 @@
                 "owner": "AmplifyCreations",
                 "repo": "AmplifyMotion",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3382,7 +3596,8 @@
                 "owner": "Fewes",
                 "repo": "MeshDecal",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3397,7 +3612,8 @@
                 "owner": "happy-turtle",
                 "repo": "oit-unity",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3412,7 +3628,8 @@
                 "owner": "kodai100",
                 "repo": "Unity_LightBeamPerformance",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3427,7 +3644,8 @@
                 "owner": "Chman",
                 "repo": "Typogenic",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3442,7 +3660,8 @@
                 "owner": "AmplifyCreations",
                 "repo": "AmplifyColor",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3457,7 +3676,8 @@
                 "owner": "neon-age",
                 "repo": "AmplifyOcclusion-URP",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3472,7 +3692,8 @@
                 "owner": "Zallist",
                 "repo": "unity.zallist.universal-simple-lit-shadergraph-target",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3487,7 +3708,8 @@
                 "owner": "alexbourgeois",
                 "repo": "OBNI3D",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3502,7 +3724,8 @@
                 "owner": "nkjzm",
                 "repo": "Mirror",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3517,7 +3740,8 @@
                 "owner": "edualvarado",
                 "repo": "unity-soft-walks",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3532,7 +3756,8 @@
                 "owner": "AmplifyCreations",
                 "repo": "FXAA",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3547,7 +3772,8 @@
                 "owner": "happy-turtle",
                 "repo": "foliage-wind",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -3569,7 +3795,8 @@
                 "owner": "cakeslice",
                 "repo": "Outline-Effect",
                 "stars": 1559
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3584,7 +3811,8 @@
                 "owner": "Arvtesh",
                 "repo": "UnityFx.Outline",
                 "stars": 1395
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3599,7 +3827,8 @@
                 "owner": "Robinseibold",
                 "repo": "Unity-URP-Outlines",
                 "stars": 715
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3614,7 +3843,8 @@
                 "owner": "Shrimpey",
                 "repo": "UltimateOutline",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3629,7 +3859,8 @@
                 "owner": "Shrimpey",
                 "repo": "Outlined-Diffuse-Shader-Fixed",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3644,7 +3875,8 @@
                 "owner": "nothke",
                 "repo": "dx-highlighter",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -3666,7 +3898,8 @@
                 "owner": "wave-harmonic",
                 "repo": "crest",
                 "stars": 3882
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3681,7 +3914,8 @@
                 "owner": "Scrawk",
                 "repo": "Ceto",
                 "stars": 1084
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3696,7 +3930,8 @@
                 "owner": "eliasts",
                 "repo": "Ocean_Community_Next_Gen",
                 "stars": 1079
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3711,7 +3946,8 @@
                 "owner": "gasgiant",
                 "repo": "FFT-Ocean",
                 "stars": 803
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -3733,7 +3969,8 @@
                 "owner": "JasonMa0012",
                 "repo": "JTRP",
                 "stars": 2160
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3748,7 +3985,8 @@
                 "owner": "Kink3d",
                 "repo": "kShading",
                 "stars": 1015
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3762,8 +4000,9 @@
                 "last_commit": "2025-02-12T15:39:41Z",
                 "owner": "stalomeow",
                 "repo": "StarRailNPRShader",
-                "stars": 982
-              }
+                "stars": 981
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3777,8 +4016,9 @@
                 "last_commit": "2025-03-29T05:31:57Z",
                 "owner": "Gaolingx",
                 "repo": "GenshinCelShaderURP",
-                "stars": 763
-              }
+                "stars": 764
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3793,7 +4033,8 @@
                 "owner": "Santarh",
                 "repo": "MToon",
                 "stars": 590
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3807,8 +4048,9 @@
                 "last_commit": "2022-06-27T03:55:23Z",
                 "owner": "yoship1639",
                 "repo": "UniToon",
-                "stars": 560
-              }
+                "stars": 559
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -3829,8 +4071,9 @@
                 "last_commit": "2026-07-21T19:27:10Z",
                 "owner": "juicycleff",
                 "repo": "flutter-unity-view-widget",
-                "stars": 2307
-              }
+                "stars": 2306
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -3852,7 +4095,8 @@
                 "owner": "Juce-Assets",
                 "repo": "Juce-Feedbacks",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -3873,8 +4117,9 @@
                 "last_commit": "2026-08-23T04:08:31Z",
                 "owner": "liangxiegame",
                 "repo": "QFramework",
-                "stars": 5424
-              }
+                "stars": 5425
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3888,8 +4133,9 @@
                 "last_commit": "2026-04-23T10:51:59Z",
                 "owner": "JasonXuDeveloper",
                 "repo": "JEngine",
-                "stars": 2230
-              }
+                "stars": 2229
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3904,7 +4150,8 @@
                 "owner": "Seneral",
                 "repo": "Node_Editor_Framework",
                 "stars": 2019
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3919,7 +4166,8 @@
                 "owner": "snozbot",
                 "repo": "fungus",
                 "stars": 1944
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3934,7 +4182,8 @@
                 "owner": "mr-kelly",
                 "repo": "KSFramework",
                 "stars": 1814
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3949,7 +4198,8 @@
                 "owner": "PixeyeHQ",
                 "repo": "actors.unity",
                 "stars": 758
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3964,7 +4214,8 @@
                 "owner": "LibraStack",
                 "repo": "UnityMvvmToolkit",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3979,7 +4230,8 @@
                 "owner": "DonnYep",
                 "repo": "CosmosFramework",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -3994,7 +4246,8 @@
                 "owner": "ExtendRealityLtd",
                 "repo": "Zinnia.Unity",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4009,7 +4262,8 @@
                 "owner": "FlipWebApps",
                 "repo": "GameFramework",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4024,7 +4278,8 @@
                 "owner": "UnioGame",
                 "repo": "UniGame.ViewSystem",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4039,7 +4294,8 @@
                 "owner": "uFrame",
                 "repo": "uFrame.Complete",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4054,7 +4310,8 @@
                 "owner": "Baste-RainGames",
                 "repo": "PlayerLoopInterface",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4069,7 +4326,8 @@
                 "owner": "HardCodeDev777",
                 "repo": "UnityNeuroSpeech",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4084,7 +4342,8 @@
                 "owner": "scellecs",
                 "repo": "red",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -4105,8 +4364,9 @@
                 "last_commit": "2023-06-16T14:51:41Z",
                 "owner": "in0finite",
                 "repo": "SanAndreasUnity",
-                "stars": 2609
-              }
+                "stars": 2611
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4121,7 +4381,8 @@
                 "owner": "DavidArayan",
                 "repo": "ezy-slice",
                 "stars": 2266
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4136,7 +4397,8 @@
                 "owner": "sjai013",
                 "repo": "unity-gameplay-ability-system",
                 "stars": 1083
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4150,8 +4412,9 @@
                 "last_commit": "2024-07-09T21:30:51Z",
                 "owner": "fydar",
                 "repo": "RPGCore",
-                "stars": 857
-              }
+                "stars": 858
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4166,7 +4429,8 @@
                 "owner": "devdogio",
                 "repo": "Inventory-Pro",
                 "stars": 709
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4181,7 +4445,8 @@
                 "owner": "devdogio",
                 "repo": "Quest-System-Pro",
                 "stars": 639
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4196,7 +4461,8 @@
                 "owner": "setchi",
                 "repo": "NoteEditor",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4211,7 +4477,8 @@
                 "owner": "devdogio",
                 "repo": "lospro",
                 "stars": 377
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4226,7 +4493,8 @@
                 "owner": "SitronX",
                 "repo": "UnityTimeRewinder",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4241,7 +4509,8 @@
                 "owner": "keenanwoodall",
                 "repo": "Grapple-Effect",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4256,7 +4525,8 @@
                 "owner": "FarrokhGames",
                 "repo": "Inventory",
                 "stars": 283
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4271,7 +4541,8 @@
                 "owner": "keenanwoodall",
                 "repo": "Piranha",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4286,7 +4557,8 @@
                 "owner": "AitorSimona",
                 "repo": "Traverser",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4301,7 +4573,8 @@
                 "owner": "williamrjackson",
                 "repo": "UnityArcRayCast",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4316,7 +4589,8 @@
                 "owner": "Laumania",
                 "repo": "Unity3d-PhysicsGun",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4331,7 +4605,8 @@
                 "owner": "VIZ-Interactive",
                 "repo": "Depiction-Engine-Unity",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4346,7 +4621,8 @@
                 "owner": "nishadtardalkar",
                 "repo": "FogOfWar",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -4368,7 +4644,8 @@
                 "owner": "Tencent",
                 "repo": "behaviac",
                 "stars": 3044
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4383,7 +4660,8 @@
                 "owner": "h8man",
                 "repo": "NavMeshPlus",
                 "stars": 2337
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4398,7 +4676,8 @@
                 "owner": "sturdyspoon",
                 "repo": "unity-movement-ai",
                 "stars": 2138
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4413,7 +4692,8 @@
                 "owner": "SebLague",
                 "repo": "Path-Creator",
                 "stars": 2085
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4428,7 +4708,8 @@
                 "owner": "crashkonijn",
                 "repo": "GOAP",
                 "stars": 1754
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4443,7 +4724,8 @@
                 "owner": "thefuntastic",
                 "repo": "Unity3d-Finite-State-Machine",
                 "stars": 1691
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4457,8 +4739,9 @@
                 "last_commit": "2026-03-25T17:02:04Z",
                 "owner": "Inspiaaa",
                 "repo": "UnityHFSM",
-                "stars": 1599
-              }
+                "stars": 1598
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4473,7 +4756,8 @@
                 "owner": "meniku",
                 "repo": "NPBehave",
                 "stars": 1272
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4488,7 +4772,8 @@
                 "owner": "ricardojmendez",
                 "repo": "UnitySteer",
                 "stars": 1253
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4503,7 +4788,8 @@
                 "owner": "ashblue",
                 "repo": "fluid-behavior-tree",
                 "stars": 1181
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4518,7 +4804,8 @@
                 "owner": "ikpil",
                 "repo": "DotRecast",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4532,8 +4819,9 @@
                 "last_commit": "2024-07-30T16:50:29Z",
                 "owner": "Nebukam",
                 "repo": "com.nebukam.orca",
-                "stars": 561
-              }
+                "stars": 562
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4548,7 +4836,8 @@
                 "owner": "igiagkiozis",
                 "repo": "CrystalAI",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4563,7 +4852,8 @@
                 "owner": "sharpaccent",
                 "repo": "Astar-for-Unity",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4578,7 +4868,8 @@
                 "owner": "Qriva",
                 "repo": "MonoBehaviourTree",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4593,7 +4884,8 @@
                 "owner": "juhgiyo",
                 "repo": "EpPathFinding.cs",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4608,7 +4900,8 @@
                 "owner": "Yecats",
                 "repo": "UnityBehaviorTreeVisualizer",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4623,7 +4916,8 @@
                 "owner": "unity3d-open-tools",
                 "repo": "openpath",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4638,7 +4932,8 @@
                 "owner": "mattatz",
                 "repo": "unity-path-finding",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4653,7 +4948,8 @@
                 "owner": "daemon3000",
                 "repo": "Brainiac",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4668,7 +4964,8 @@
                 "owner": "k-okawa",
                 "repo": "UniTaskStateMachine",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4683,7 +4980,8 @@
                 "owner": "OlegDzhuraev",
                 "repo": "NavMeshAvoidance",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4698,7 +4996,8 @@
                 "owner": "TheCyaniteProject",
                 "repo": "PathFinder3D",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4713,7 +5012,8 @@
                 "owner": "idbrii",
                 "repo": "unity-navgen",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4728,7 +5028,8 @@
                 "owner": "juhgiyo",
                 "repo": "EpPathFinding3D.cs",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4743,7 +5044,8 @@
                 "owner": "SharlatanY",
                 "repo": "NavMeshSurface2DBaker",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4758,7 +5060,8 @@
                 "owner": "gamemachine",
                 "repo": "ainav",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4773,7 +5076,8 @@
                 "owner": "MorelAntoine",
                 "repo": "Unity-Character-Mechanism",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -4795,7 +5099,8 @@
                 "owner": "harumas",
                 "repo": "UGizmo",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -4817,7 +5122,8 @@
                 "owner": "TouchScript",
                 "repo": "TouchScript",
                 "stars": 1703
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4832,7 +5138,8 @@
                 "owner": "prime31",
                 "repo": "TouchKit",
                 "stars": 915
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4847,7 +5154,8 @@
                 "owner": "pbhogan",
                 "repo": "InControl",
                 "stars": 698
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4862,7 +5170,8 @@
                 "owner": "daemon3000",
                 "repo": "InputManager",
                 "stars": 594
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4877,7 +5186,8 @@
                 "owner": "RyanNielson",
                 "repo": "InputBinder",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -4899,7 +5209,8 @@
                 "owner": "genaray",
                 "repo": "ZeroAllocJobScheduler",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -4920,8 +5231,9 @@
                 "last_commit": "2026-03-28T08:40:50Z",
                 "owner": "LogicalError",
                 "repo": "realtime-CSG-for-unity",
-                "stars": 1006
-              }
+                "stars": 1007
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4936,7 +5248,8 @@
                 "owner": "MicroGSD",
                 "repo": "RoadArchitect",
                 "stars": 989
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4951,7 +5264,8 @@
                 "owner": "radiatoryang",
                 "repo": "hedera",
                 "stars": 814
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4966,7 +5280,8 @@
                 "owner": "Unity-Technologies",
                 "repo": "giles",
                 "stars": 793
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4981,7 +5296,8 @@
                 "owner": "Seanba",
                 "repo": "Tiled2Unity",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -4996,7 +5312,8 @@
                 "owner": "RadicalCSG",
                 "repo": "Chisel.Prototype",
                 "stars": 500
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5011,7 +5328,8 @@
                 "owner": "Cammin",
                 "repo": "LDtkToUnity",
                 "stars": 426
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5026,7 +5344,8 @@
                 "owner": "NoelFB",
                 "repo": "UnityTile3D",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5041,7 +5360,8 @@
                 "owner": "alexismorin",
                 "repo": "floorplan",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5056,7 +5376,8 @@
                 "owner": "RoryDungan",
                 "repo": "HexTiles",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5071,7 +5392,8 @@
                 "owner": "pshtif",
                 "repo": "RuntimeTransformHandle",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5086,7 +5408,8 @@
                 "owner": "alexismorin",
                 "repo": "Photosynthesizer",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5101,7 +5424,8 @@
                 "owner": "guotata1996",
                 "repo": "roadbuilder",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5116,7 +5440,8 @@
                 "owner": "Roland09",
                 "repo": "Terrain-Stamps",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5131,7 +5456,8 @@
                 "owner": "alexanderameye",
                 "repo": "prefab-painter",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5146,7 +5472,8 @@
                 "owner": "MarcusElg",
                 "repo": "roadcreator",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5161,7 +5488,8 @@
                 "owner": "Roland09",
                 "repo": "StampToolExtended",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5176,7 +5504,8 @@
                 "owner": "JanMalitschek",
                 "repo": "Grid-Placer",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5191,7 +5520,8 @@
                 "owner": "Roland09",
                 "repo": "PrefabPainter",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5213,7 +5543,8 @@
                 "owner": "SlightlyMad",
                 "repo": "VolumetricLights",
                 "stars": 2116
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5228,7 +5559,8 @@
                 "owner": "SiiMeR",
                 "repo": "unity-volumetric-fog",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5243,7 +5575,8 @@
                 "owner": "AdultLink",
                 "repo": "Rimlight",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5258,7 +5591,8 @@
                 "owner": "AlexanderVorobyov",
                 "repo": "simple-light-probe-placer",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5273,7 +5607,8 @@
                 "owner": "Fewes",
                 "repo": "VolumetricTracer",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5294,8 +5629,9 @@
                 "last_commit": "2025-11-21T07:14:15Z",
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10176
-              }
+                "stars": 10177
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5309,8 +5645,9 @@
                 "last_commit": "2026-08-04T06:45:45Z",
                 "owner": "moonsharp-devs",
                 "repo": "moonsharp",
-                "stars": 1613
-              }
+                "stars": 1614
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5325,7 +5662,8 @@
                 "owner": "pangweiwei",
                 "repo": "slua",
                 "stars": 1419
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5340,7 +5678,8 @@
                 "owner": "xebecnan",
                 "repo": "UniLua",
                 "stars": 1121
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5362,7 +5701,8 @@
                 "owner": "leinlin",
                 "repo": "Miku-LuaProfiler",
                 "stars": 2015
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5383,8 +5723,9 @@
                 "last_commit": "2026-01-10T14:31:48Z",
                 "owner": "homuler",
                 "repo": "MediaPipeUnityPlugin",
-                "stars": 2454
-              }
+                "stars": 2456
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5406,7 +5747,8 @@
                 "owner": "videolan",
                 "repo": "libvlcsharp",
                 "stars": 1805
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5421,7 +5763,8 @@
                 "owner": "vimeo",
                 "repo": "vimeo-unity-sdk",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5436,7 +5779,8 @@
                 "owner": "Spirit30",
                 "repo": "FFmpegUnityBind2",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5458,7 +5802,8 @@
                 "owner": "keenanwoodall",
                 "repo": "Deform",
                 "stars": 3677
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5473,7 +5818,8 @@
                 "owner": "KhronosGroup",
                 "repo": "UnityGLTF",
                 "stars": 2224
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5488,7 +5834,8 @@
                 "owner": "Whinarn",
                 "repo": "UnityMeshSimplifier",
                 "stars": 2045
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5503,7 +5850,8 @@
                 "owner": "ElasticSea",
                 "repo": "unity-fracture",
                 "stars": 1330
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5518,7 +5866,8 @@
                 "owner": "dgreenheck",
                 "repo": "OpenFracture",
                 "stars": 1135
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5533,7 +5882,8 @@
                 "owner": "methusalah",
                 "repo": "SplineMesh",
                 "stars": 1124
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5548,7 +5898,8 @@
                 "owner": "hugoscurti",
                 "repo": "mesh-cutter",
                 "stars": 658
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5563,7 +5914,8 @@
                 "owner": "Scrawk",
                 "repo": "Hull-Delaunay-Voronoi",
                 "stars": 424
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5578,7 +5930,8 @@
                 "owner": "eliemichel",
                 "repo": "BMeshUnity",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5593,7 +5946,8 @@
                 "owner": "TheAllenChou",
                 "repo": "unity-ray-marching",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5608,7 +5962,8 @@
                 "owner": "EmmetOT",
                 "repo": "IsoMesh",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5623,7 +5978,8 @@
                 "owner": "Whinarn",
                 "repo": "MeshDecimator",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5638,7 +5994,8 @@
                 "owner": "bilibili",
                 "repo": "UnityBVA",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5653,7 +6010,8 @@
                 "owner": "mattatz",
                 "repo": "unity-mesh-builder",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5668,7 +6026,8 @@
                 "owner": "sandrofigo",
                 "repo": "VoxReader",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5690,7 +6049,8 @@
                 "owner": "dnSpy",
                 "repo": "dnSpy",
                 "stars": 29691
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5701,11 +6061,12 @@
                 "archived": false,
                 "id": 1327739,
                 "language": "C#",
-                "last_commit": "2026-08-27T08:51:07Z",
+                "last_commit": "2026-08-28T11:27:47Z",
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 25960
-              }
+                "stars": 25965
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5719,8 +6080,9 @@
                 "last_commit": "2022-12-08T15:37:37Z",
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15604
-              }
+                "stars": 15602
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5734,8 +6096,9 @@
                 "last_commit": "2026-08-15T14:29:07Z",
                 "owner": "pardeike",
                 "repo": "Harmony",
-                "stars": 6629
-              }
+                "stars": 6631
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5746,11 +6109,12 @@
                 "archived": false,
                 "id": 4933039,
                 "language": "C#",
-                "last_commit": "2026-08-19T07:11:09Z",
+                "last_commit": "2026-08-27T12:17:00Z",
                 "owner": "Fody",
                 "repo": "Fody",
                 "stars": 4541
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5764,8 +6128,9 @@
                 "last_commit": "2026-08-13T09:56:40Z",
                 "owner": "LavaGang",
                 "repo": "MelonLoader",
-                "stars": 4141
-              }
+                "stars": 4146
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5780,7 +6145,8 @@
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
                 "stars": 3093
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5795,7 +6161,8 @@
                 "owner": "Misaka-Mikoto-Tech",
                 "repo": "MonoHook",
                 "stars": 1059
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5809,8 +6176,9 @@
                 "last_commit": "2026-06-22T15:32:07Z",
                 "owner": "NeighTools",
                 "repo": "UnityDoorstop",
-                "stars": 583
-              }
+                "stars": 584
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5825,7 +6193,8 @@
                 "owner": "mob-sakai",
                 "repo": "CSharpCompilerSettingsForUnity",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5840,7 +6209,8 @@
                 "owner": "PassivePicasso",
                 "repo": "ThunderKit",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5855,7 +6225,8 @@
                 "owner": "mob-sakai",
                 "repo": "OpenSesame",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5873,11 +6244,12 @@
                 "archived": false,
                 "id": 14933768,
                 "language": "C#",
-                "last_commit": "2026-08-26T23:05:37Z",
+                "last_commit": "2026-08-28T10:40:57Z",
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
                 "stars": 1544
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -5898,8 +6270,9 @@
                 "last_commit": "2026-08-25T16:12:14Z",
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13225
-              }
+                "stars": 13228
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5913,8 +6286,9 @@
                 "last_commit": "2026-08-26T13:25:42Z",
                 "owner": "egametang",
                 "repo": "ET",
-                "stars": 9898
-              }
+                "stars": 9899
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5929,7 +6303,8 @@
                 "owner": "sta",
                 "repo": "websocket-sharp",
                 "stars": 6075
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5940,11 +6315,12 @@
                 "archived": false,
                 "id": 76100575,
                 "language": "C#",
-                "last_commit": "2026-08-26T11:47:55Z",
+                "last_commit": "2026-08-28T03:18:30Z",
                 "owner": "Cysharp",
                 "repo": "MagicOnion",
-                "stars": 4441
-              }
+                "stars": 4444
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5958,8 +6334,9 @@
                 "last_commit": "2026-08-20T14:50:27Z",
                 "owner": "Facepunch",
                 "repo": "Facepunch.Steamworks",
-                "stars": 3733
-              }
+                "stars": 3734
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5973,8 +6350,9 @@
                 "last_commit": "2026-06-18T11:34:49Z",
                 "owner": "RevenantX",
                 "repo": "LiteNetLib",
-                "stars": 3610
-              }
+                "stars": 3609
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -5988,8 +6366,9 @@
                 "last_commit": "2026-08-07T05:02:02Z",
                 "owner": "rlabrecque",
                 "repo": "Steamworks.NET",
-                "stars": 3584
-              }
+                "stars": 3587
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6003,8 +6382,9 @@
                 "last_commit": "2026-08-21T03:42:31Z",
                 "owner": "FirstGearGames",
                 "repo": "FishNet",
-                "stars": 2027
-              }
+                "stars": 2031
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6019,7 +6399,8 @@
                 "owner": "BeardedManStudios",
                 "repo": "ForgeNetworkingRemastered",
                 "stars": 1482
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6034,7 +6415,8 @@
                 "owner": "proyecto26",
                 "repo": "RestClient",
                 "stars": 1315
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6049,7 +6431,8 @@
                 "owner": "lidgren",
                 "repo": "lidgren-network-gen3",
                 "stars": 1221
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6064,7 +6447,8 @@
                 "owner": "psygames",
                 "repo": "UnityWebSocket",
                 "stars": 1204
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6079,7 +6463,8 @@
                 "owner": "NetEase",
                 "repo": "UnitySocketIO",
                 "stars": 896
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6094,7 +6479,8 @@
                 "owner": "Quobject",
                 "repo": "SocketIoClientDotNet",
                 "stars": 788
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6109,7 +6495,8 @@
                 "owner": "proepkes",
                 "repo": "UnityLockstep",
                 "stars": 711
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6120,11 +6507,12 @@
                 "archived": false,
                 "id": 819599087,
                 "language": "C#",
-                "last_commit": "2026-08-25T21:53:33Z",
+                "last_commit": "2026-08-27T19:50:12Z",
                 "owner": "PurrNet",
                 "repo": "PurrNet",
-                "stars": 645
-              }
+                "stars": 646
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6139,7 +6527,8 @@
                 "owner": "andyburke",
                 "repo": "UnityHTTP",
                 "stars": 596
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6154,7 +6543,8 @@
                 "owner": "alvyxaz",
                 "repo": "barebones-masterserver",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6169,7 +6559,8 @@
                 "owner": "markiodev",
                 "repo": "Networker",
                 "stars": 482
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6184,7 +6575,8 @@
                 "owner": "colyseus",
                 "repo": "colyseus-unity-sdk",
                 "stars": 435
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6199,7 +6591,8 @@
                 "owner": "NetickNetworking",
                 "repo": "NetickForUnity",
                 "stars": 403
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6213,8 +6606,9 @@
                 "last_commit": "2026-08-04T12:14:09Z",
                 "owner": "RevenantX",
                 "repo": "LiteEntitySystem",
-                "stars": 328
-              }
+                "stars": 329
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6229,7 +6623,8 @@
                 "owner": "gazuntype",
                 "repo": "graphQL-client-unity",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6244,7 +6639,8 @@
                 "owner": "DarkRiftNetworking",
                 "repo": "Hazel-Networking",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6259,7 +6655,8 @@
                 "owner": "thatjoaoguy",
                 "repo": "unity-fastpacedmultiplayer",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6274,7 +6671,8 @@
                 "owner": "Mazyod",
                 "repo": "PhoenixSharp",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6289,7 +6687,8 @@
                 "owner": "aevien",
                 "repo": "master-server-toolkit",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6304,7 +6703,8 @@
                 "owner": "RomanZhu",
                 "repo": "Entitas-Sync-Framework",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6319,7 +6719,8 @@
                 "owner": "zestylife",
                 "repo": "EuNet",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6334,7 +6735,8 @@
                 "owner": "HouraiTeahouse",
                 "repo": "Backroll",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6345,11 +6747,12 @@
                 "archived": false,
                 "id": 107905510,
                 "language": "C#",
-                "last_commit": "2026-08-20T10:39:47Z",
+                "last_commit": "2026-08-28T12:20:15Z",
                 "owner": "insthync",
                 "repo": "LiteNetLibManager",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6364,7 +6767,8 @@
                 "owner": "jakevn",
                 "repo": "MassiveNet",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6379,7 +6783,8 @@
                 "owner": "HouraiTeahouse",
                 "repo": "HouraiNetworking",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6394,7 +6799,8 @@
                 "owner": "h33p",
                 "repo": "UNet-Controller",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6409,7 +6815,8 @@
                 "owner": "jacksonrakena",
                 "repo": "promul",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6424,7 +6831,8 @@
                 "owner": "debox-dev",
                 "repo": "Teleport",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6439,7 +6847,8 @@
                 "owner": "Unity3dAzure",
                 "repo": "RESTClient",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6454,7 +6863,8 @@
                 "owner": "Unity3dAzure",
                 "repo": "UnityWebSocket",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6469,7 +6879,8 @@
                 "owner": "kurozael",
                 "repo": "zapnet",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6484,7 +6895,8 @@
                 "owner": "TORISOUP",
                 "repo": "Pun2Task",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6499,7 +6911,8 @@
                 "owner": "AncientEntity",
                 "repo": "EntityNetworkingSystems",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6514,7 +6927,8 @@
                 "owner": "whitesharx",
                 "repo": "httx",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6529,7 +6943,8 @@
                 "owner": "proepkes",
                 "repo": "SpeedDate",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6544,7 +6959,8 @@
                 "owner": "ccadori",
                 "repo": "sand-socket-unity",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6559,7 +6975,8 @@
                 "owner": "polartron",
                 "repo": "open-netcode",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -6581,7 +6998,8 @@
                 "owner": "Siccity",
                 "repo": "xNode",
                 "stars": 3736
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6595,8 +7013,9 @@
                 "last_commit": "2025-09-22T17:16:09Z",
                 "owner": "alelievr",
                 "repo": "NodeGraphProcessor",
-                "stars": 2689
-              }
+                "stars": 2691
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6611,7 +7030,8 @@
                 "owner": "mert-dev-acc",
                 "repo": "NodeBasedDialogueSystem",
                 "stars": 898
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6626,7 +7046,8 @@
                 "owner": "cemuka",
                 "repo": "UnityRuntimeNodeEditor",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6640,8 +7061,9 @@
                 "last_commit": "2020-04-20T08:56:02Z",
                 "owner": "Siccity",
                 "repo": "Dialogue",
-                "stars": 336
-              }
+                "stars": 335
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6656,7 +7078,8 @@
                 "owner": "Wafflus",
                 "repo": "unity-dialogue-system",
                 "stars": 303
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6671,7 +7094,8 @@
                 "owner": "PaulNonatomic",
                 "repo": "VisualStateMachineV2",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -6693,7 +7117,8 @@
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
                 "stars": 4559
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6704,11 +7129,12 @@
                 "archived": false,
                 "id": 199310409,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T14:59:11Z",
+                "last_commit": "2026-08-28T01:09:29Z",
                 "owner": "openupm",
                 "repo": "openupm",
                 "stars": 1895
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6723,7 +7149,8 @@
                 "owner": "modesttree",
                 "repo": "Projeny",
                 "stars": 698
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6738,7 +7165,8 @@
                 "owner": "PaulNonatomic",
                 "repo": "pkglnk-unity",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -6759,8 +7187,9 @@
                 "last_commit": "2026-05-05T23:16:22Z",
                 "owner": "naelstrof",
                 "repo": "JigglePhysics",
-                "stars": 568
-              }
+                "stars": 567
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6775,7 +7204,8 @@
                 "owner": "Phong13",
                 "repo": "BulletSharpUnity3d",
                 "stars": 566
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6790,7 +7220,8 @@
                 "owner": "Kimbatt",
                 "repo": "unity-deterministic-physics",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6805,7 +7236,8 @@
                 "owner": "Ninjajie",
                 "repo": "Fusion",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6820,7 +7252,8 @@
                 "owner": "jeffvella",
                 "repo": "UnityNativeCollision",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6834,8 +7267,9 @@
                 "last_commit": "2026-07-31T14:49:14Z",
                 "owner": "Suvitruf",
                 "repo": "box3d-unity",
-                "stars": 223
-              }
+                "stars": 224
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6850,7 +7284,8 @@
                 "owner": "seep",
                 "repo": "JoltPhysicsUnity",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6865,7 +7300,8 @@
                 "owner": "ikpil",
                 "repo": "Box2D.NET",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6880,7 +7316,8 @@
                 "owner": "nomnomab",
                 "repo": "RaycastVisualization",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6895,7 +7332,8 @@
                 "owner": "staggartcreations",
                 "repo": "Graphics-Raycast",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6910,7 +7348,8 @@
                 "owner": "TheAllenChou",
                 "repo": "unity-physics-constraints",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6925,7 +7364,8 @@
                 "owner": "Hrober0",
                 "repo": "Cable-physics",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6940,7 +7380,8 @@
                 "owner": "3DI70R",
                 "repo": "Unity-SensorKit",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6955,7 +7396,8 @@
                 "owner": "AntoineCharton",
                 "repo": "Bepuphysics-Unity",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -6977,7 +7419,8 @@
                 "owner": "SolarianZ",
                 "repo": "UnityPlayableGraphMonitorTool",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -6992,7 +7435,8 @@
                 "owner": "terrynoya",
                 "repo": "YJZPlayableGraphView",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7014,7 +7458,8 @@
                 "owner": "hecomi",
                 "repo": "uLipSync",
                 "stars": 1661
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7029,7 +7474,8 @@
                 "owner": "Agasper",
                 "repo": "unity-android-notifications",
                 "stars": 559
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7044,7 +7490,8 @@
                 "owner": "NicholasSheehan",
                 "repo": "Unity-Native-Sharing",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7059,7 +7506,8 @@
                 "owner": "NicholasSheehan",
                 "repo": "Unity-Native-Sharing",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7074,7 +7522,8 @@
                 "owner": "googleanalytics",
                 "repo": "google-analytics-plugin-for-unity",
                 "stars": 398
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7089,7 +7538,8 @@
                 "owner": "asus4",
                 "repo": "UnityNativeDialogPlugin",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7104,7 +7554,8 @@
                 "owner": "videokit-ai",
                 "repo": "natshare",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7119,7 +7570,8 @@
                 "owner": "reignstudios",
                 "repo": "Reign-Unity-Plugin5",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7134,7 +7586,8 @@
                 "owner": "uta-org",
                 "repo": "PuppeteerSharp.Unity3D",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7155,8 +7608,9 @@
                 "last_commit": "2021-03-28T01:04:35Z",
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4855
-              }
+                "stars": 4856
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7171,7 +7625,8 @@
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
                 "stars": 2899
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7186,7 +7641,8 @@
                 "owner": "OndrejNepozitek",
                 "repo": "Edgar-Unity",
                 "stars": 910
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7201,7 +7657,8 @@
                 "owner": "OndrejNepozitek",
                 "repo": "Edgar-Unity",
                 "stars": 910
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7216,7 +7673,8 @@
                 "owner": "jongallant",
                 "repo": "DungeonGenerator",
                 "stars": 489
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7231,7 +7689,8 @@
                 "owner": "mattatz",
                 "repo": "unity-procedural-tree",
                 "stars": 426
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7246,7 +7705,8 @@
                 "owner": "leth4",
                 "repo": "InstantPipes",
                 "stars": 390
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7261,7 +7721,8 @@
                 "owner": "AK-Saigyouji",
                 "repo": "Procedural-Cave-Generator",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7276,7 +7737,8 @@
                 "owner": "kurtdekker",
                 "repo": "makegeo",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7291,7 +7753,8 @@
                 "owner": "mattatz",
                 "repo": "unity-procedural-flower",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7313,7 +7776,8 @@
                 "owner": "Kink3d",
                 "repo": "kPooling",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7328,7 +7792,8 @@
                 "owner": "ettmetal",
                 "repo": "Replicator",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7343,7 +7808,8 @@
                 "owner": "starikcetin",
                 "repo": "Eflatun.Pooling",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7365,7 +7831,8 @@
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4968
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7380,7 +7847,8 @@
                 "owner": "5argon",
                 "repo": "protobuf-unity",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7402,7 +7870,8 @@
                 "owner": "gblikas",
                 "repo": "unity-desktop-lite",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7424,7 +7893,8 @@
                 "owner": "yasirkula",
                 "repo": "UnityRuntimeInspector",
                 "stars": 2156
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7439,7 +7909,8 @@
                 "owner": "ManlyMarco",
                 "repo": "RuntimeUnityEditor",
                 "stars": 1107
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7454,7 +7925,8 @@
                 "owner": "HiddenMonk",
                 "repo": "Unity3DRuntimeTransformGizmo",
                 "stars": 771
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7476,7 +7948,8 @@
                 "owner": "unity-atoms",
                 "repo": "unity-atoms",
                 "stars": 1390
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7491,7 +7964,8 @@
                 "owner": "DanielEverland",
                 "repo": "ScriptableObject-Architecture",
                 "stars": 1056
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7506,7 +7980,8 @@
                 "owner": "brunomikoski",
                 "repo": "ScriptableObjectCollection",
                 "stars": 599
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7521,7 +7996,8 @@
                 "owner": "SolidAlloy",
                 "repo": "GenericUnityObjects",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7536,7 +8012,8 @@
                 "owner": "heyJordanParker",
                 "repo": "yaSingleton",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7551,7 +8028,8 @@
                 "owner": "pablothedolphin",
                 "repo": "Scriptable-Framework",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7566,7 +8044,8 @@
                 "owner": "PaulNonatomic",
                 "repo": "ServiceKit",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7588,7 +8067,8 @@
                 "owner": "focus-creative-games",
                 "repo": "hybridclr",
                 "stars": 7953
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7602,8 +8082,9 @@
                 "last_commit": "2026-08-25T08:58:41Z",
                 "owner": "Tencent",
                 "repo": "puerts",
-                "stars": 6192
-              }
+                "stars": 6191
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7618,7 +8099,8 @@
                 "owner": "YarnSpinnerTool",
                 "repo": "YarnSpinner",
                 "stars": 2832
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7633,7 +8115,8 @@
                 "owner": "jacksondunstan",
                 "repo": "UnityNativeScripting",
                 "stars": 1375
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7648,7 +8131,8 @@
                 "owner": "focus-creative-games",
                 "repo": "leanclr",
                 "stars": 663
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7663,7 +8147,8 @@
                 "owner": "exodrifter",
                 "repo": "unity-python",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7678,7 +8163,8 @@
                 "owner": "pjc0247",
                 "repo": "UniScript",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7693,7 +8179,8 @@
                 "owner": "pjc0247",
                 "repo": "SlowSharp",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7715,7 +8202,8 @@
                 "owner": "Haruma-K",
                 "repo": "UnityScreenNavigator",
                 "stars": 1115
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7736,8 +8224,9 @@
                 "last_commit": "2026-07-21T13:14:53Z",
                 "owner": "TeamSirenix",
                 "repo": "odin-serializer",
-                "stars": 1897
-              }
+                "stars": 1898
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7752,7 +8241,8 @@
                 "owner": "Prastiwar",
                 "repo": "UnitySerializedDictionary",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7770,11 +8260,12 @@
                 "archived": false,
                 "id": 15061404,
                 "language": "C#",
-                "last_commit": "2026-08-27T07:34:30Z",
+                "last_commit": "2026-08-28T07:29:00Z",
                 "owner": "playgameservices",
                 "repo": "play-games-plugin-for-unity",
                 "stars": 3658
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7785,11 +8276,12 @@
                 "archived": false,
                 "id": 375427349,
                 "language": "C#",
-                "last_commit": "2026-08-25T15:21:34Z",
+                "last_commit": "2026-08-28T09:41:04Z",
                 "owner": "EOS-Contrib",
                 "repo": "eos_plugin_for_unity",
                 "stars": 415
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7804,7 +8296,8 @@
                 "owner": "line",
                 "repo": "line-sdk-unity",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7819,7 +8312,8 @@
                 "owner": "aptabase",
                 "repo": "aptabase-unity",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7834,7 +8328,8 @@
                 "owner": "playerloop",
                 "repo": "playerloop-unity",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7856,7 +8351,8 @@
                 "owner": "keijiro",
                 "repo": "Reaktion",
                 "stars": 1065
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7871,7 +8367,8 @@
                 "owner": "allanpichardo",
                 "repo": "Unity-Beat-Detection",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7886,7 +8383,8 @@
                 "owner": "ricardojmendez",
                 "repo": "LibNoise.Unity",
                 "stars": 432
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7901,7 +8399,8 @@
                 "owner": "geekdrums",
                 "repo": "MusicEngine",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7916,7 +8415,8 @@
                 "owner": "zeh",
                 "repo": "usfxr",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7931,7 +8431,8 @@
                 "owner": "MathewHDYT",
                 "repo": "Unity-Audio-Manager",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -7953,7 +8454,8 @@
                 "owner": "PimDeWitte",
                 "repo": "UnityMainThreadDispatcher",
                 "stars": 993
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7968,7 +8470,8 @@
                 "owner": "TorVestergaard",
                 "repo": "UnityAsyncRoutines",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -7983,7 +8486,8 @@
                 "owner": "Enderlook",
                 "repo": "Unity-Threading",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -8005,7 +8509,8 @@
                 "owner": "jinsek",
                 "repo": "MightyTerrainMesh",
                 "stars": 644
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8020,7 +8525,8 @@
                 "owner": "michalczemierowski",
                 "repo": "Unity--voxel-terrain-generator",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -8042,7 +8548,8 @@
                 "owner": "5argon",
                 "repo": "SpineTimeline",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -8064,7 +8571,8 @@
                 "owner": "Demigiant",
                 "repo": "dotween",
                 "stars": 2681
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8078,8 +8586,9 @@
                 "last_commit": "2026-06-30T09:49:06Z",
                 "owner": "annulusgames",
                 "repo": "LitMotion",
-                "stars": 2288
-              }
+                "stars": 2289
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8093,8 +8602,9 @@
                 "last_commit": "2026-07-18T11:02:15Z",
                 "owner": "KyryloKuzyk",
                 "repo": "PrimeTween",
-                "stars": 1974
-              }
+                "stars": 1975
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8109,7 +8619,8 @@
                 "owner": "brunomikoski",
                 "repo": "Animation-Sequencer",
                 "stars": 1234
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8124,7 +8635,8 @@
                 "owner": "dentedpixel",
                 "repo": "LeanTween",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8139,7 +8651,8 @@
                 "owner": "prime31",
                 "repo": "GoKit",
                 "stars": 591
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8154,7 +8667,8 @@
                 "owner": "annulusgames",
                 "repo": "TweenPlayables",
                 "stars": 567
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8169,7 +8683,8 @@
                 "owner": "annulusgames",
                 "repo": "MagicTween",
                 "stars": 500
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8184,7 +8699,8 @@
                 "owner": "prime31",
                 "repo": "ZestKit",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8199,7 +8715,8 @@
                 "owner": "beinteractive",
                 "repo": "Uween",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -8220,8 +8737,9 @@
                 "last_commit": "2022-11-13T17:22:52Z",
                 "owner": "JustInvoke",
                 "repo": "Randomation-Vehicle-Physics",
-                "stars": 934
-              }
+                "stars": 935
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8236,7 +8754,8 @@
                 "owner": "gasgiant",
                 "repo": "Aircraft-Physics",
                 "stars": 679
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8251,7 +8770,8 @@
                 "owner": "adrenak",
                 "repo": "tork",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -8272,8 +8792,9 @@
                 "last_commit": "2026-08-27T08:14:38Z",
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7607
-              }
+                "stars": 7609
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8287,8 +8808,9 @@
                 "last_commit": "2026-08-27T11:28:20Z",
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5968
-              }
+                "stars": 5973
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8303,7 +8825,8 @@
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
                 "stars": 3785
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8318,7 +8841,8 @@
                 "owner": "setchi",
                 "repo": "FancyScrollView",
                 "stars": 3522
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8333,7 +8857,8 @@
                 "owner": "fairygui",
                 "repo": "FairyGUI-unity",
                 "stars": 2965
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8347,8 +8872,9 @@
                 "last_commit": "2026-06-07T20:48:36Z",
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2770
-              }
+                "stars": 2769
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8363,7 +8889,8 @@
                 "owner": "UnityTech",
                 "repo": "UIWidgets",
                 "stars": 1956
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8378,7 +8905,8 @@
                 "owner": "kirevdokimov",
                 "repo": "Unity-UI-Rounded-Corners",
                 "stars": 1741
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8389,11 +8917,12 @@
                 "archived": false,
                 "id": 245578730,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T15:50:04Z",
+                "last_commit": "2026-08-27T15:10:59Z",
                 "owner": "ReactUnity",
                 "repo": "core",
                 "stars": 893
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8408,7 +8937,8 @@
                 "owner": "Invex-Games",
                 "repo": "MaterialUI",
                 "stars": 773
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8423,7 +8953,8 @@
                 "owner": "CiaccoDavide",
                 "repo": "Unity-UI-Polygon",
                 "stars": 642
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8438,7 +8969,8 @@
                 "owner": "MdIqubal",
                 "repo": "Recyclable-Scroll-Rect",
                 "stars": 602
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8453,7 +8985,8 @@
                 "owner": "Meragon",
                 "repo": "Unity-WinForms",
                 "stars": 549
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8468,7 +9001,8 @@
                 "owner": "realgamessoftware",
                 "repo": "dear-imgui-unity",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8483,7 +9017,8 @@
                 "owner": "devdogio",
                 "repo": "sci-fi-ui",
                 "stars": 461
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8498,7 +9033,8 @@
                 "owner": "mob-sakai",
                 "repo": "ShinyEffectForUGUI",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8513,7 +9049,8 @@
                 "owner": "mdechatech",
                 "repo": "CharTweener",
                 "stars": 406
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8528,7 +9065,8 @@
                 "owner": "tinyantstudio",
                 "repo": "EnhancedScrollView",
                 "stars": 390
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8543,7 +9081,8 @@
                 "owner": "Haruma-K",
                 "repo": "uPalette",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8558,7 +9097,8 @@
                 "owner": "n-yoda",
                 "repo": "unity-vertex-effects",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8573,7 +9113,8 @@
                 "owner": "fuqunaga",
                 "repo": "RapidGUI",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8588,7 +9129,8 @@
                 "owner": "delight-dev",
                 "repo": "Delight",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8603,7 +9145,8 @@
                 "owner": "westhillapps",
                 "repo": "uGUI-Effect-Tool",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8618,7 +9161,8 @@
                 "owner": "kyubuns",
                 "repo": "Auto9Slicer",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8633,7 +9177,8 @@
                 "owner": "coryleach",
                 "repo": "UnityGUI",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8648,7 +9193,8 @@
                 "owner": "jbruening",
                 "repo": "ugui-mvvm",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8663,7 +9209,8 @@
                 "owner": "sinbad",
                 "repo": "UnityRecyclingListView",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8678,7 +9225,8 @@
                 "owner": "L-Lawliet",
                 "repo": "UGUIExtend",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8693,7 +9241,8 @@
                 "owner": "brunomikoski",
                 "repo": "TMP-Text-Juicer",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8708,7 +9257,8 @@
                 "owner": "brunomikoski",
                 "repo": "Text-Juicer",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8723,7 +9273,8 @@
                 "owner": "FaizanDurrani",
                 "repo": "LiquidSwipeUnity",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8738,7 +9289,8 @@
                 "owner": "mikrima",
                 "repo": "UnityAccessibilityPlugin",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8753,7 +9305,8 @@
                 "owner": "Area730",
                 "repo": "MiniMap",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8768,7 +9321,8 @@
                 "owner": "adrenak",
                 "repo": "ugx",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8783,7 +9337,8 @@
                 "owner": "arket",
                 "repo": "PoiPoiTooltip",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8798,7 +9353,8 @@
                 "owner": "am1goo",
                 "repo": "Rewired.UI.Hotkeys",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -8820,7 +9376,8 @@
                 "owner": "Cysharp",
                 "repo": "ZLinq",
                 "stars": 5243
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8835,7 +9392,8 @@
                 "owner": "zalo",
                 "repo": "MathUtilities",
                 "stars": 4755
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8849,8 +9407,9 @@
                 "last_commit": "2026-08-26T05:20:11Z",
                 "owner": "Cysharp",
                 "repo": "R3",
-                "stars": 3972
-              }
+                "stars": 3973
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8865,7 +9424,8 @@
                 "owner": "TheBerkin",
                 "repo": "rant3",
                 "stars": 2935
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8880,7 +9440,8 @@
                 "owner": "Tayx94",
                 "repo": "graphy",
                 "stars": 2899
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8895,7 +9456,8 @@
                 "owner": "FreyaHolmer",
                 "repo": "Mathfs",
                 "stars": 2748
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8910,7 +9472,8 @@
                 "owner": "gkngkc",
                 "repo": "UnityStandaloneFileBrowser",
                 "stars": 2459
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8925,7 +9488,8 @@
                 "owner": "yasirkula",
                 "repo": "UnityNativeGallery",
                 "stars": 1618
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8939,8 +9503,9 @@
                 "last_commit": "2022-01-18T06:15:32Z",
                 "owner": "digital-standard",
                 "repo": "ThreeDPoseUnityBarracuda",
-                "stars": 1517
-              }
+                "stars": 1516
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8955,7 +9520,8 @@
                 "owner": "RaduMC",
                 "repo": "AssetStudio",
                 "stars": 1421
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8970,7 +9536,8 @@
                 "owner": "EsProgram",
                 "repo": "InkPainter",
                 "stars": 1308
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -8985,7 +9552,8 @@
                 "owner": "Real-Serious-Games",
                 "repo": "C-Sharp-Promise",
                 "stars": 1242
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9000,7 +9568,8 @@
                 "owner": "akbiggs",
                 "repo": "UnityTimer",
                 "stars": 1090
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9015,7 +9584,8 @@
                 "owner": "fholm",
                 "repo": "unityassets",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9030,7 +9600,8 @@
                 "owner": "Nition",
                 "repo": "UnityOctree",
                 "stars": 1010
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9045,7 +9616,8 @@
                 "owner": "Chman",
                 "repo": "Moments",
                 "stars": 862
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9060,7 +9632,8 @@
                 "owner": "starikcetin",
                 "repo": "Eflatun.SceneReference",
                 "stars": 838
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9075,7 +9648,8 @@
                 "owner": "Demigiant",
                 "repo": "demilib",
                 "stars": 765
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9090,7 +9664,8 @@
                 "owner": "HearthSim",
                 "repo": "UnityPack",
                 "stars": 750
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9105,7 +9680,8 @@
                 "owner": "Ayfel",
                 "repo": "PrefabLightmapping",
                 "stars": 744
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9120,7 +9696,8 @@
                 "owner": "KyleBanks",
                 "repo": "scene-ref-attribute",
                 "stars": 576
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9135,7 +9712,8 @@
                 "owner": "westhillapps",
                 "repo": "UniGif",
                 "stars": 497
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9149,8 +9727,9 @@
                 "last_commit": "2022-07-28T03:45:51Z",
                 "owner": "CiaccoDavide",
                 "repo": "Alchemy-Circles-Generator",
-                "stars": 441
-              }
+                "stars": 443
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9165,7 +9744,8 @@
                 "owner": "mmd-for-unity-proj",
                 "repo": "mmd-for-unity",
                 "stars": 433
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9180,7 +9760,8 @@
                 "owner": "aschearer",
                 "repo": "unitysizeexplorer",
                 "stars": 384
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9195,7 +9776,8 @@
                 "owner": "Siccity",
                 "repo": "SerializableCallback",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9210,7 +9792,8 @@
                 "owner": "noisecrime",
                 "repo": "Unity-EasingLibraryVisualisation",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9225,7 +9808,8 @@
                 "owner": "gwaredd",
                 "repo": "UnityMarkdownViewer",
                 "stars": 311
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9240,7 +9824,8 @@
                 "owner": "nubick",
                 "repo": "unity-utils",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9255,7 +9840,8 @@
                 "owner": "EsProgram",
                 "repo": "WaveformProvider",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9270,7 +9856,8 @@
                 "owner": "FeNo",
                 "repo": "InGameReplay",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9285,7 +9872,8 @@
                 "owner": "deniszykov",
                 "repo": "csharp-eval-unity3d",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9300,7 +9888,8 @@
                 "owner": "thedoritos",
                 "repo": "unimgpicker",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9315,7 +9904,8 @@
                 "owner": "bitcake",
                 "repo": "bitstrap",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9330,7 +9920,8 @@
                 "owner": "dave-hillier",
                 "repo": "disruptor-unity3d",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9345,7 +9936,8 @@
                 "owner": "5argon",
                 "repo": "E7Unity",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9360,7 +9952,8 @@
                 "owner": "CandyCoded",
                 "repo": "CandyCoded",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9375,7 +9968,8 @@
                 "owner": "ganeshsar",
                 "repo": "UnityPythonMediaPipeAvatar",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9390,7 +9984,8 @@
                 "owner": "viliwonka",
                 "repo": "WeightedRandomSelector",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9405,7 +10000,8 @@
                 "owner": "aosoft",
                 "repo": "Xamarin.Forms.Unity",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9420,7 +10016,8 @@
                 "owner": "Shogan",
                 "repo": "PixelSpriteGenerator-Unity",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9435,7 +10032,8 @@
                 "owner": "annulusgames",
                 "repo": "LucidRandom",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9450,7 +10048,8 @@
                 "owner": "brunomikoski",
                 "repo": "SceneKeeper",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9465,7 +10064,8 @@
                 "owner": "Geri-Borbas",
                 "repo": "Unity.Library.eppz",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9480,7 +10080,8 @@
                 "owner": "lujian101",
                 "repo": "GCFreeClosure",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9495,7 +10096,8 @@
                 "owner": "renanwolf",
                 "repo": "UniRate",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9510,7 +10112,8 @@
                 "owner": "tinrab",
                 "repo": "DataBind",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9525,7 +10128,8 @@
                 "owner": "hanachiru",
                 "repo": "RapidEnum",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9540,7 +10144,8 @@
                 "owner": "Chman",
                 "repo": "FrameCapture",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9555,7 +10160,8 @@
                 "owner": "Bodix",
                 "repo": "Evolunity",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9570,7 +10176,8 @@
                 "owner": "prime31",
                 "repo": "Unity-Ripgrep-Search-Tool",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9585,7 +10192,8 @@
                 "owner": "GregLukosek",
                 "repo": "3DMath",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9600,7 +10208,8 @@
                 "owner": "geniikw",
                 "repo": "CoroutineChain",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9615,7 +10224,8 @@
                 "owner": "Thundernerd",
                 "repo": "Unity3D-Humanizr",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9630,7 +10240,8 @@
                 "owner": "KonH",
                 "repo": "UDBase",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9645,7 +10256,8 @@
                 "owner": "5argon",
                 "repo": "GradientGenerator",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9660,7 +10272,8 @@
                 "owner": "NullTale",
                 "repo": "UnityClipboardImage",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9675,7 +10288,8 @@
                 "owner": "mert-dev-acc",
                 "repo": "GetComponentAttribute",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9690,7 +10304,8 @@
                 "owner": "Thundernerd",
                 "repo": "Unity3D-Histogrammer",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9705,7 +10320,8 @@
                 "owner": "Team-on",
                 "repo": "Unity3D-save-audioClip-to-MP3",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9720,7 +10336,8 @@
                 "owner": "tomblind",
                 "repo": "unity-routines",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9735,7 +10352,8 @@
                 "owner": "natsupy",
                 "repo": "CropTexture",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9750,7 +10368,8 @@
                 "owner": "Electronic-Brain",
                 "repo": "SmartAssembler",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9765,7 +10384,8 @@
                 "owner": "adrenak",
                 "repo": "UnityAsyncImageLoader",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -9787,7 +10407,8 @@
                 "owner": "microsoft",
                 "repo": "MixedRealityToolkit-Unity",
                 "stars": 6074
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9802,7 +10423,8 @@
                 "owner": "ExtendRealityLtd",
                 "repo": "VRTK",
                 "stars": 3722
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9817,7 +10439,8 @@
                 "owner": "googlevr",
                 "repo": "gvr-unity-sdk",
                 "stars": 2723
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9832,7 +10455,8 @@
                 "owner": "De-Panther",
                 "repo": "unity-webxr-export",
                 "stars": 1256
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9847,7 +10471,8 @@
                 "owner": "TomorrowTodayLabs",
                 "repo": "NewtonVR",
                 "stars": 796
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9862,7 +10487,8 @@
                 "owner": "Rufus31415",
                 "repo": "Simple-WebXR-Unity",
                 "stars": 611
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9877,7 +10503,8 @@
                 "owner": "VRMADA",
                 "repo": "ultimatexr-unity",
                 "stars": 560
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9892,7 +10519,8 @@
                 "owner": "jorgejgnz",
                 "repo": "HPTK",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9907,7 +10535,8 @@
                 "owner": "XRTK",
                 "repo": "com.xrtk.core",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9922,7 +10551,8 @@
                 "owner": "microsoft",
                 "repo": "VisualProfiler-Unity",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9937,7 +10567,8 @@
                 "owner": "turbobutton",
                 "repo": "tbutt-vr",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9952,7 +10583,8 @@
                 "owner": "Andy260",
                 "repo": "VRWorksAudio-Unity",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -9967,7 +10599,8 @@
                 "owner": "Spatial-Cinematics",
                 "repo": "Lightweight-VR",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -9985,11 +10618,12 @@
                 "archived": false,
                 "id": 4070520,
                 "language": "Objective-C++",
-                "last_commit": "2026-08-20T13:25:14Z",
+                "last_commit": "2026-08-28T01:14:59Z",
                 "owner": "gree",
                 "repo": "unity-webview",
                 "stars": 2658
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             },
             {
               "node_type": "item",
@@ -10004,7 +10638,8 @@
                 "owner": "MozillaReality",
                 "repo": "servo-unity",
                 "stars": 311
-              }
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
             }
           ],
           "description": null,
@@ -10016,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:14.672Z",
+    "last_updated": "2026-08-28T12:58:10.033Z",
     "original_repository_info": {
       "archived": false,
       "id": 78371780,
@@ -10024,7 +10659,7 @@
       "last_commit": "2026-08-25T19:31:29Z",
       "owner": "insthync",
       "repo": "awesome-unity3d",
-      "stars": 2726
+      "stars": 2727
     },
     "original_repository_sha": "0aa1f97fabb0777cca501851b3ad8949e9136aec",
     "enhanced_repository": "enhansome/enhansome-unity3d",
