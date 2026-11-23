@@ -485,10 +485,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-17T15:17:43Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "CoplayDev",
                 "repo": "unity-mcp",
-                "stars": 16109,
+                "stars": 16132,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -522,11 +522,11 @@
                 "id": 959123498,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T07:56:24Z",
+                "last_commit": "2026-11-23T09:05:36Z",
                 "open_issues": 52,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4681,
+                "stars": 4685,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -584,11 +584,11 @@
                 "id": 1136752401,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-21T11:15:26Z",
+                "last_commit": "2026-11-22T11:34:47Z",
                 "open_issues": 0,
                 "owner": "Besty0728",
                 "repo": "Unity-Skills",
-                "stars": 1961,
+                "stars": 1967,
                 "topics": [
                   "ai",
                   "antygravity-ai",
@@ -688,7 +688,7 @@
                 "id": 1449222892,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T17:19:59Z",
+                "last_commit": "2026-11-22T13:01:14Z",
                 "open_issues": 0,
                 "owner": "saturadev",
                 "repo": "satura-space",
@@ -1170,7 +1170,7 @@
                 "open_issues": 0,
                 "owner": "focus-creative-games",
                 "repo": "obfuz",
-                "stars": 840,
+                "stars": 842,
                 "topics": [
                   "confuserex",
                   "confusion",
@@ -1271,7 +1271,7 @@
                 "open_issues": 47,
                 "owner": "BoundingBoxSoftware",
                 "repo": "Materialize",
-                "stars": 1836,
+                "stars": 1838,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -2129,7 +2129,7 @@
                 "open_issues": 4,
                 "owner": "ta-david-yu",
                 "repo": "2D-Platformer-Hunter",
-                "stars": 368,
+                "stars": 367,
                 "topics": [
                   "2d",
                   "2d-game",
@@ -3370,7 +3370,7 @@
                 "open_issues": 11,
                 "owner": "gustavopsantos",
                 "repo": "Reflex",
-                "stars": 1645,
+                "stars": 1646,
                 "topics": [
                   "container",
                   "csharp",
@@ -3586,7 +3586,7 @@
                 "open_issues": 98,
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7682,
+                "stars": 7681,
                 "topics": [
                   "c-sharp",
                   "code-generation",
@@ -3624,7 +3624,7 @@
                 "open_issues": 40,
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1882,
+                "stars": 1883,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -3666,7 +3666,7 @@
                 "open_issues": 46,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 816,
+                "stars": 817,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -4035,7 +4035,7 @@
                 "open_issues": 9,
                 "owner": "marijnz",
                 "repo": "unity-toolbar-extender",
-                "stars": 1947,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -4052,7 +4052,7 @@
                 "id": 293348397,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-21T22:10:07Z",
+                "last_commit": "2026-11-22T15:39:05Z",
                 "open_issues": 21,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
@@ -5054,7 +5054,7 @@
                 "open_issues": 6,
                 "owner": "keijiro",
                 "repo": "KinoGlitch",
-                "stars": 2829,
+                "stars": 2830,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -5075,7 +5075,7 @@
                 "open_issues": 8,
                 "owner": "FreyaHolmer",
                 "repo": "ShaderForge",
-                "stars": 2790,
+                "stars": 2789,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -5096,7 +5096,7 @@
                 "open_issues": 0,
                 "owner": "elringus",
                 "repo": "sprite-glow",
-                "stars": 2421,
+                "stars": 2420,
                 "topics": [
                   "plugin",
                   "shader",
@@ -5186,7 +5186,7 @@
                 "open_issues": 1,
                 "owner": "CyberAgentGameEntertainment",
                 "repo": "NovaShader",
-                "stars": 1677,
+                "stars": 1678,
                 "topics": [
                   "graphics",
                   "particles",
@@ -5480,7 +5480,7 @@
                 "open_issues": 0,
                 "owner": "Hoyotoon",
                 "repo": "HoyoToon",
-                "stars": 778,
+                "stars": 780,
                 "topics": [
                   "genshin",
                   "genshin-impact",
@@ -6594,7 +6594,7 @@
                 "open_issues": 0,
                 "owner": "stalomeow",
                 "repo": "StarRailNPRShader",
-                "stars": 983,
+                "stars": 984,
                 "topics": [
                   "3d",
                   "anime",
@@ -6793,7 +6793,7 @@
                 "open_issues": 10,
                 "owner": "liangxiegame",
                 "repo": "QFramework",
-                "stars": 5624,
+                "stars": 5626,
                 "topics": [
                   "frameworks",
                   "game-dev",
@@ -7291,7 +7291,7 @@
                 "open_issues": 40,
                 "owner": "in0finite",
                 "repo": "SanAndreasUnity",
-                "stars": 2706,
+                "stars": 2709,
                 "topics": [
                   "game-engine",
                   "gta",
@@ -7620,7 +7620,7 @@
                 "open_issues": 1,
                 "owner": "Laumania",
                 "repo": "Unity3d-PhysicsGun",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "garry-s",
                   "gun",
@@ -8116,7 +8116,7 @@
                 "open_issues": 4,
                 "owner": "Qriva",
                 "repo": "MonoBehaviourTree",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "ai",
                   "behaviour-tree",
@@ -8531,7 +8531,7 @@
                 "open_issues": 15,
                 "owner": "prime31",
                 "repo": "TouchKit",
-                "stars": 914,
+                "stars": 913,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -8832,7 +8832,7 @@
                 "open_issues": 15,
                 "owner": "Cammin",
                 "repo": "LDtkToUnity",
-                "stars": 429,
+                "stars": 428,
                 "topics": [
                   "2d",
                   "2d-game-development",
@@ -9296,7 +9296,7 @@
                 "open_issues": 114,
                 "owner": "moonsharp-devs",
                 "repo": "moonsharp",
-                "stars": 1629,
+                "stars": 1630,
                 "topics": [
                   "c-sharp",
                   "debugger",
@@ -9557,7 +9557,7 @@
                 "open_issues": 70,
                 "owner": "KhronosGroup",
                 "repo": "UnityGLTF",
-                "stars": 2250,
+                "stars": 2251,
                 "topics": [
                   "gltf",
                   "unity3d"
@@ -9702,7 +9702,7 @@
                 "open_issues": 1,
                 "owner": "Scrawk",
                 "repo": "Hull-Delaunay-Voronoi",
-                "stars": 422,
+                "stars": 423,
                 "topics": [
                   "convex-hull",
                   "delaunay-triangulation",
@@ -9928,11 +9928,11 @@
                 "id": 1327739,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-22T07:45:20Z",
-                "open_issues": 171,
+                "last_commit": "2026-11-23T09:03:47Z",
+                "open_issues": 166,
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 27126,
+                "stars": 27138,
                 "topics": [
                   "c-sharp",
                   "decompile",
@@ -9964,7 +9964,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15591,
+                "stars": 15590,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -9988,7 +9988,7 @@
                 "open_issues": 15,
                 "owner": "pardeike",
                 "repo": "Harmony",
-                "stars": 6742,
+                "stars": 6744,
                 "topics": [
                   "cil",
                   "csharp",
@@ -10039,7 +10039,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-17T21:15:14Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "LavaGang",
                 "repo": "MelonLoader",
                 "stars": 4365,
@@ -10075,7 +10075,7 @@
                 "open_issues": 892,
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3108,
+                "stars": 3107,
                 "topics": [
                   "asset",
                   "assetbundle",
@@ -10254,7 +10254,7 @@
                 "id": 14933768,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T15:48:35Z",
+                "last_commit": "2026-11-22T19:37:22Z",
                 "open_issues": 183,
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
@@ -10320,10 +10320,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T22:45:38Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13763,
+                "stars": 13766,
                 "topics": [
                   "backend",
                   "cpp",
@@ -10449,7 +10449,7 @@
                 "open_issues": 217,
                 "owner": "Facepunch",
                 "repo": "Facepunch.Steamworks",
-                "stars": 3798,
+                "stars": 3799,
                 "topics": [
                   "cloud",
                   "dll",
@@ -10477,7 +10477,7 @@
                 "open_issues": 176,
                 "owner": "rlabrecque",
                 "repo": "Steamworks.NET",
-                "stars": 3661,
+                "stars": 3662,
                 "topics": [
                   "c-sharp",
                   "steamworks",
@@ -10498,8 +10498,8 @@
                 "id": 49737156,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-19T09:32:27Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-22T13:05:09Z",
+                "open_issues": 6,
                 "owner": "RevenantX",
                 "repo": "LiteNetLib",
                 "stars": 3645,
@@ -10533,7 +10533,7 @@
                 "open_issues": 32,
                 "owner": "FirstGearGames",
                 "repo": "FishNet",
-                "stars": 2093,
+                "stars": 2094,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -10701,6 +10701,30 @@
             },
             {
               "node_type": "item",
+              "title": "PurrNet",
+              "description": "A Purrfect Unity Networking Solution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Purrfect Unity Networking Solution",
+                "homepage": "https://purrnet.dev/",
+                "id": 819599087,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-22T14:51:10Z",
+                "open_issues": 0,
+                "owner": "PurrNet",
+                "repo": "PurrNet",
+                "stars": 713,
+                "topics": [
+                  "networking",
+                  "unity"
+                ]
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
+            },
+            {
+              "node_type": "item",
               "title": "UnityLockstep",
               "description": "Deterministic Lockstep with serverside framerate for Unity",
               "children": [],
@@ -10725,30 +10749,6 @@
                   "networking",
                   "rollback",
                   "simulation",
-                  "unity"
-                ]
-              },
-              "first_seen": "2026-08-28T12:58:10.033Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PurrNet",
-              "description": "A Purrfect Unity Networking Solution",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Purrfect Unity Networking Solution",
-                "homepage": "https://purrnet.dev/",
-                "id": 819599087,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-11-21T01:04:10Z",
-                "open_issues": 0,
-                "owner": "PurrNet",
-                "repo": "PurrNet",
-                "stars": 711,
-                "topics": [
-                  "networking",
                   "unity"
                 ]
               },
@@ -10873,7 +10873,7 @@
                 "open_issues": 1,
                 "owner": "NetickNetworking",
                 "repo": "NetickForUnity",
-                "stars": 412,
+                "stars": 413,
                 "topics": [
                   "client-side-prediction",
                   "csharp",
@@ -11767,7 +11767,7 @@
                 "id": 199310409,
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-22T00:01:16Z",
+                "last_commit": "2026-11-22T17:37:27Z",
                 "open_issues": 1,
                 "owner": "openupm",
                 "repo": "openupm",
@@ -11879,7 +11879,7 @@
                 "open_issues": 16,
                 "owner": "naelstrof",
                 "repo": "JigglePhysics",
-                "stars": 608,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -11964,6 +11964,34 @@
             },
             {
               "node_type": "item",
+              "title": "box3d-unity",
+              "description": "Box3d Physics bindings for Unity",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Box3d Physics bindings for Unity ",
+                "homepage": "https://suvitruf.github.io/box3d-unity/",
+                "id": 1288607588,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-11-21T14:52:19Z",
+                "open_issues": 1,
+                "owner": "Suvitruf",
+                "repo": "box3d-unity",
+                "stars": 284,
+                "topics": [
+                  "box3d",
+                  "gamedev",
+                  "physics",
+                  "physics-simulation",
+                  "unity",
+                  "unity3d"
+                ]
+              },
+              "first_seen": "2026-08-28T12:58:10.033Z"
+            },
+            {
+              "node_type": "item",
               "title": "UnityNativeCollision",
               "description": "SAT Collision in C# for Unity3D Burst Compiler",
               "children": [],
@@ -11985,34 +12013,6 @@
             },
             {
               "node_type": "item",
-              "title": "box3d-unity",
-              "description": "Box3d Physics bindings for Unity",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Box3d Physics bindings for Unity ",
-                "homepage": "https://suvitruf.github.io/box3d-unity/",
-                "id": 1288607588,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-11-21T14:52:19Z",
-                "open_issues": 1,
-                "owner": "Suvitruf",
-                "repo": "box3d-unity",
-                "stars": 283,
-                "topics": [
-                  "box3d",
-                  "gamedev",
-                  "physics",
-                  "physics-simulation",
-                  "unity",
-                  "unity3d"
-                ]
-              },
-              "first_seen": "2026-08-28T12:58:10.033Z"
-            },
-            {
-              "node_type": "item",
               "title": "Box2D.NET",
               "description": "a port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers",
               "children": [],
@@ -12027,7 +12027,7 @@
                 "open_issues": 10,
                 "owner": "ikpil",
                 "repo": "Box2D.NET",
-                "stars": 228,
+                "stars": 226,
                 "topics": [
                   "2d",
                   "2d-game",
@@ -12063,7 +12063,7 @@
                 "open_issues": 3,
                 "owner": "seep",
                 "repo": "JoltPhysicsUnity",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -12287,7 +12287,7 @@
                 "open_issues": 51,
                 "owner": "hecomi",
                 "repo": "uLipSync",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "burst-compiler",
                   "job-system",
@@ -12515,7 +12515,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4877,
+                "stars": 4878,
                 "topics": [
                   "procjam",
                   "unity",
@@ -12536,11 +12536,11 @@
                 "id": 25112594,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-16T00:38:16Z",
+                "last_commit": "2026-11-22T23:12:19Z",
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2918,
+                "stars": 2921,
                 "topics": [
                   "c-sharp",
                   "pcg",
@@ -12836,7 +12836,7 @@
                 "open_issues": 543,
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
-                "stars": 4976,
+                "stars": 4975,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -12944,7 +12944,7 @@
                 "open_issues": 9,
                 "owner": "ManlyMarco",
                 "repo": "RuntimeUnityEditor",
-                "stars": 1135,
+                "stars": 1134,
                 "topics": [
                   "bepinex",
                   "debugging-tool",
@@ -12999,7 +12999,7 @@
                 "open_issues": 31,
                 "owner": "unity-atoms",
                 "repo": "unity-atoms",
-                "stars": 1395,
+                "stars": 1396,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -13260,7 +13260,7 @@
                 "id": 287706896,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T08:34:09Z",
+                "last_commit": "2026-11-23T04:07:22Z",
                 "open_issues": 302,
                 "owner": "Tencent",
                 "repo": "puerts",
@@ -13660,8 +13660,8 @@
                 "id": 1257507925,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-22T08:06:39Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-23T08:04:56Z",
+                "open_issues": 31,
                 "owner": "LogBrewCo",
                 "repo": "sdk",
                 "stars": 5,
@@ -14016,7 +14016,7 @@
                 "open_issues": 309,
                 "owner": "Demigiant",
                 "repo": "dotween",
-                "stars": 2702,
+                "stars": 2703,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -14034,7 +14034,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-22T06:50:39Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "annulusgames",
                 "repo": "LitMotion",
                 "stars": 2370,
@@ -14066,7 +14066,7 @@
                 "open_issues": 1,
                 "owner": "KyryloKuzyk",
                 "repo": "PrimeTween",
-                "stars": 2030,
+                "stars": 2031,
                 "topics": [
                   "animation",
                   "camera-shake",
@@ -14353,7 +14353,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-17T23:14:09Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
                 "stars": 7733,
@@ -14424,11 +14424,11 @@
                 "id": 147537593,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-13T14:59:37Z",
+                "last_commit": "2026-11-22T14:46:54Z",
                 "open_issues": 3,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3800,
+                "stars": 3802,
                 "topics": [
                   "chart",
                   "charting",
@@ -15339,7 +15339,7 @@
                 "open_issues": 0,
                 "owner": "zalo",
                 "repo": "MathUtilities",
-                "stars": 4759,
+                "stars": 4760,
                 "topics": [
                   "camera",
                   "kalman-filter",
@@ -15460,7 +15460,7 @@
                 "open_issues": 101,
                 "owner": "gkngkc",
                 "repo": "UnityStandaloneFileBrowser",
-                "stars": 2458,
+                "stars": 2460,
                 "topics": [
                   "file-browser",
                   "file-chooser",
@@ -15706,7 +15706,7 @@
                 "open_issues": 1,
                 "owner": "starikcetin",
                 "repo": "Eflatun.SceneReference",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "addressables",
                   "asset-bundles",
@@ -15790,7 +15790,7 @@
                 "open_issues": 29,
                 "owner": "Ayfel",
                 "repo": "PrefabLightmapping",
-                "stars": 748,
+                "stars": 749,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -16881,7 +16881,7 @@
                 "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "MixedRealityToolkit-Unity",
-                "stars": 6077,
+                "stars": 6076,
                 "topics": [
                   "hololens",
                   "holotoolkit",
@@ -17252,7 +17252,7 @@
                 "open_issues": 443,
                 "owner": "gree",
                 "repo": "unity-webview",
-                "stars": 2681,
+                "stars": 2680,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:10.033Z"
@@ -17362,7 +17362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T08:12:19.733Z",
+    "last_updated": "2026-11-23T09:13:57.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome opensource unity3d repos",
